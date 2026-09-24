@@ -1,0 +1,238 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "cd976603-49cc-4f27-891f-91ac234067a1")
+	(paper "A4")
+	(lib_symbols)
+	(text "LCD Screen &\nRotary Encoder"
+		(exclude_from_sim no)
+		(at 202.692 119.634 0)
+		(effects
+			(font
+				(size 7.62 7.62)
+			)
+		)
+		(uuid "00b12443-2517-46c6-87ee-12489ab0ea02")
+	)
+	(text "HALL EFFECT \nSENSORS"
+		(exclude_from_sim no)
+		(at 73.914 48.26 0)
+		(effects
+			(font
+				(size 7.62 7.62)
+			)
+		)
+		(uuid "2903f907-43fb-4cb6-b28b-e1c00f405a18")
+	)
+	(text "POWER & Dual MCUs"
+		(exclude_from_sim no)
+		(at 73.66 122.174 0)
+		(effects
+			(font
+				(size 7.62 7.62)
+			)
+		)
+		(uuid "41bdd796-8480-4cb0-b339-d9f29caeab62")
+	)
+	(text "RGB LEDs"
+		(exclude_from_sim no)
+		(at 203.962 51.308 0)
+		(effects
+			(font
+				(size 7.62 7.62)
+			)
+		)
+		(uuid "abefdae8-50f0-4f64-a15e-758f500e4473")
+	)
+	(sheet
+		(at 149.352 90.424)
+		(size 113.03 62.992)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 204 102 0 1)
+		)
+		(uuid "264bf8bc-4fa3-4972-9929-dc5fbd01c8df")
+		(property "Sheetname" "LCD Screen and Encoder"
+			(at 149.352 89.7124 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "lcd_and_encoder.kicad_sch"
+			(at 149.352 154.0006 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "75all% H-Effect Gaming Keyboard"
+				(path "/cd976603-49cc-4f27-891f-91ac234067a1"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 149.098 18.542)
+		(size 113.538 64.008)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 194 194 194 1)
+		)
+		(uuid "4dd03b55-dbe0-4726-8d3b-8a10492f42d3")
+		(property "Sheetname" "RGB LEDS"
+			(at 149.098 17.8304 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "rgb_leds.kicad_sch"
+			(at 149.098 83.1346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "75all% H-Effect Gaming Keyboard"
+				(path "/cd976603-49cc-4f27-891f-91ac234067a1"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.272 17.78)
+		(size 115.316 65.024)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1)
+		)
+		(uuid "aa1fcb44-5998-4a85-a02f-edf12447fbdf")
+		(property "Sheetname" "HALL EFFECT SENSORS"
+			(at 17.272 17.0684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "hall_effect_sensors.kicad_sch"
+			(at 17.272 83.3886 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "75all% H-Effect Gaming Keyboard"
+				(path "/cd976603-49cc-4f27-891f-91ac234067a1"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 18.034 90.678)
+		(size 114.3 62.738)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 194 0 194 1)
+		)
+		(uuid "ce1e15c2-ee8c-48b7-9567-01f7634526fd")
+		(property "Sheetname" "MCU SECTION"
+			(at 18.034 89.9664 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu_section.kicad_sch"
+			(at 18.034 154.0006 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "75all% H-Effect Gaming Keyboard"
+				(path "/cd976603-49cc-4f27-891f-91ac234067a1"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
