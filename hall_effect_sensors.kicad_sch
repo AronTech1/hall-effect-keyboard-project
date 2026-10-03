@@ -1555,145 +1555,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:+3V3"
-			(power global)
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "+3V3"
-				(at 0 3.556 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"+3V3\""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "+3V3_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "+3V3_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0)
-					(name ""
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "power:GND"
 			(power global)
 			(pin_numbers
@@ -1835,6 +1696,12 @@
 		(uuid "024cf721-36dd-4987-b26b-0a730cc9952d")
 	)
 	(junction
+		(at 180.34 228.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0422c526-c912-41fa-a543-af9547438904")
+	)
+	(junction
 		(at 464.82 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1851,12 +1718,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "07e8dfbf-9209-4eaa-9963-22bc987aca92")
-	)
-	(junction
-		(at 251.46 228.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0c35b051-68b6-40df-8009-e323b8bdc9cf")
 	)
 	(junction
 		(at 36.83 97.79)
@@ -1889,12 +1750,6 @@
 		(uuid "11dfb78b-7754-4e98-a6a0-1f7a7f5dc26c")
 	)
 	(junction
-		(at 454.66 229.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1226b301-90c2-4660-a880-77fbf072e898")
-	)
-	(junction
 		(at 115.57 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1925,12 +1780,6 @@
 		(uuid "182567b6-6d3d-4c80-9a47-0d96156f0d04")
 	)
 	(junction
-		(at 180.34 228.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "18440d7f-a472-4b60-99d6-fcd08e629abf")
-	)
-	(junction
 		(at 447.04 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1955,6 +1804,12 @@
 		(uuid "21eead27-c261-453f-b2ec-9c8d39c5db27")
 	)
 	(junction
+		(at 325.12 228.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "223be854-6c93-4f43-9b76-1dbeefe23805")
+	)
+	(junction
 		(at 224.79 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1977,6 +1832,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2b964383-1430-4b6f-8c45-bc5526c6007a")
+	)
+	(junction
+		(at 454.66 229.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2cea1c5e-bc2f-43b5-be93-497ddd0cc7b9")
 	)
 	(junction
 		(at 36.83 120.65)
@@ -2417,12 +2278,6 @@
 		(uuid "9475f67b-00ca-499b-bf70-f50f1006d1c2")
 	)
 	(junction
-		(at 388.62 229.87)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "96037e94-63df-4fbe-a76d-44306fd1160b")
-	)
-	(junction
 		(at 210.82 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2525,12 +2380,6 @@
 		(uuid "a5f92cb4-99ea-4521-b294-7b77afaf9ed5")
 	)
 	(junction
-		(at 104.14 228.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ac4083f7-fc77-447a-8678-d39b76108d65")
-	)
-	(junction
 		(at 369.57 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2583,6 +2432,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bc773ac8-ac35-4ed1-b509-4934a43c582c")
+	)
+	(junction
+		(at 104.14 228.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bce2addc-ad6d-4b7f-9651-daf3749627da")
 	)
 	(junction
 		(at 445.77 106.68)
@@ -2723,6 +2578,12 @@
 		(uuid "dbe5abe3-597f-4854-9821-75b4fa20d428")
 	)
 	(junction
+		(at 388.62 229.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dd59094c-67be-4ab2-9f4e-cb27e9c0a5bd")
+	)
+	(junction
 		(at 179.07 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2747,6 +2608,12 @@
 		(uuid "e13846a8-6008-44a9-b46c-3c2441a93199")
 	)
 	(junction
+		(at 251.46 228.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e17af7e5-939c-4747-9b16-7ffc901dca76")
+	)
+	(junction
 		(at 243.84 144.78)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2757,12 +2624,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e237d07e-8008-4d7c-8577-283e11e2ae4d")
-	)
-	(junction
-		(at 325.12 228.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e4ee5791-b1de-424a-963c-30416e358722")
 	)
 	(junction
 		(at 147.32 120.65)
@@ -22711,6 +22572,83 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3VA")
+		(at 454.66 229.87 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "268fd53a-7500-4252-84a7-f0826160cdbe")
+		(property "Reference" "#PWR0219"
+			(at 454.66 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3VA"
+			(at 454.66 225.806 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 454.66 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 454.66 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3VA\""
+			(at 454.66 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c571f27a-9c46-44e1-b79c-2f9db16a4bd7")
+		)
+		(instances
+			(project "75all% H-Effect Gaming Keyboard"
+				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
+					(reference "#PWR0219")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 161.29 64.77 0)
 		(unit 1)
@@ -23795,83 +23733,6 @@
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
 					(reference "Cy80")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 180.34 228.6 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "2f37c1ff-e3d4-4d49-87d1-9b281fc03721")
-		(property "Reference" "#PWR0216"
-			(at 180.34 232.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 180.34 225.044 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 180.34 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 180.34 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 180.34 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "da9df7f3-e077-4c93-b8d3-d7545b87318c")
-		)
-		(instances
-			(project "75all% H-Effect Gaming Keyboard"
-				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0216")
 					(unit 1)
 				)
 			)
@@ -27978,83 +27839,6 @@
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
 					(reference "#PWR059")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 454.66 229.87 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "4620bcc6-c3f6-4dee-a405-eb5f98b5196e")
-		(property "Reference" "#PWR0220"
-			(at 454.66 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 454.66 226.314 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 454.66 229.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 454.66 229.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 454.66 229.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1b3436a8-79d6-46a8-8d2a-7646d0d00bc8")
-		)
-		(instances
-			(project "75all% H-Effect Gaming Keyboard"
-				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0220")
 					(unit 1)
 				)
 			)
@@ -32474,6 +32258,83 @@
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
 					(reference "#PWR0225")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3VA")
+		(at 251.46 228.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "60ea435e-34d0-4175-90dc-c14c402280fa")
+		(property "Reference" "#PWR0216"
+			(at 251.46 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3VA"
+			(at 251.46 224.536 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 251.46 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 251.46 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3VA\""
+			(at 251.46 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a3099758-ea14-433d-a9fb-b7dc9c527716")
+		)
+		(instances
+			(project "75all% H-Effect Gaming Keyboard"
+				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
+					(reference "#PWR0216")
 					(unit 1)
 				)
 			)
@@ -40534,6 +40395,83 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3VA")
+		(at 325.12 228.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8c9fae53-394c-438d-ab6a-ef23680b5895")
+		(property "Reference" "#PWR0217"
+			(at 325.12 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3VA"
+			(at 325.12 224.536 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 325.12 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 325.12 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3VA\""
+			(at 325.12 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1f1a8c65-0279-477e-8421-b3ff469fbef9")
+		)
+		(instances
+			(project "75all% H-Effect Gaming Keyboard"
+				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
+					(reference "#PWR0217")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 147.32 80.01 0)
 		(unit 1)
@@ -44203,83 +44141,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 251.46 228.6 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9b364666-cf1d-4836-8f20-bcfaa43ae5f1")
-		(property "Reference" "#PWR0217"
-			(at 251.46 232.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 251.46 225.044 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 251.46 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 251.46 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 251.46 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "82da0243-9fdc-4d33-a020-6dafeb09bfa8")
-		)
-		(instances
-			(project "75all% H-Effect Gaming Keyboard"
-				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0217")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 337.82 102.87 0)
 		(unit 1)
@@ -47271,6 +47132,83 @@
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
 					(reference "#PWR0203")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3VA")
+		(at 104.14 228.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "aaced92b-1ddf-46f2-acdf-8ea5c025dc66")
+		(property "Reference" "#PWR0461"
+			(at 104.14 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3VA"
+			(at 104.14 224.536 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 104.14 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3VA\""
+			(at 104.14 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bec8dd18-d9db-400d-8694-76334ef75b21")
+		)
+		(instances
+			(project "75all% H-Effect Gaming Keyboard"
+				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
+					(reference "#PWR0461")
 					(unit 1)
 				)
 			)
@@ -52643,83 +52581,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 104.14 228.6 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ced2c18d-8787-493c-aaaa-07c6995c2980")
-		(property "Reference" "#PWR0215"
-			(at 104.14 232.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 104.14 225.044 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 104.14 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 104.14 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 104.14 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "dd1bec62-be60-4d34-a430-7d96243c2515")
-		)
-		(instances
-			(project "75all% H-Effect Gaming Keyboard"
-				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0215")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 558.8 80.01 0)
 		(unit 1)
@@ -55217,83 +55078,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3V3")
-		(at 388.62 229.87 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "dbf88f8d-ed5d-4129-b610-c4db8db8e36d")
-		(property "Reference" "#PWR0219"
-			(at 388.62 233.68 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 388.62 226.314 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 388.62 229.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 388.62 229.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 388.62 229.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "66cd55f7-d8b1-4c85-97c6-9074dcecc18c")
-		)
-		(instances
-			(project "75all% H-Effect Gaming Keyboard"
-				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0219")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 224.79 177.8 0)
 		(unit 1)
@@ -55519,6 +55303,83 @@
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
 					(reference "#PWR0162")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3VA")
+		(at 180.34 228.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "de25cbad-8e40-4415-ae00-57a169b04fdb")
+		(property "Reference" "#PWR0215"
+			(at 180.34 232.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3VA"
+			(at 180.34 224.536 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 180.34 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 180.34 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3VA\""
+			(at 180.34 228.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ccc68f71-f23a-4bcc-8093-727169ee5b06")
+		)
+		(instances
+			(project "75all% H-Effect Gaming Keyboard"
+				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
+					(reference "#PWR0215")
 					(unit 1)
 				)
 			)
@@ -57359,6 +57220,83 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3VA")
+		(at 388.62 229.87 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e7eb3ccc-1ba4-4819-9b4c-0964ce2e4670")
+		(property "Reference" "#PWR0218"
+			(at 388.62 233.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3VA"
+			(at 388.62 225.806 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 388.62 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 388.62 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3VA\""
+			(at 388.62 229.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f3ee34a2-b67d-4c12-98c9-47bad3da8007")
+		)
+		(instances
+			(project "75all% H-Effect Gaming Keyboard"
+				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
+					(reference "#PWR0218")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 351.79 154.94 0)
 		(unit 1)
@@ -58535,83 +58473,6 @@
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
 					(reference "Cx2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 325.12 228.6 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "efb59a9c-56c7-48dc-899f-02bb302320e0")
-		(property "Reference" "#PWR0218"
-			(at 325.12 232.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 325.12 225.044 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 325.12 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 325.12 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 325.12 228.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c5a024bc-d0d0-48e0-9e61-97168f66a84f")
-		)
-		(instances
-			(project "75all% H-Effect Gaming Keyboard"
-				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0218")
 					(unit 1)
 				)
 			)
