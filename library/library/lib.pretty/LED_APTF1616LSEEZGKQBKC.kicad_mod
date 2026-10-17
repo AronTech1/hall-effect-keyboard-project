@@ -1,0 +1,356 @@
+(footprint "LED_APTF1616LSEEZGKQBKC"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "LED34"
+		(at 1.625 -2.685 0)
+		(layer "F.SilkS")
+		(uuid "4279511d-1112-4e0a-9f1e-d523c720369d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "APTF1616LSEEZGKQBKC"
+		(at 13.055 2.685 0)
+		(layer "F.Fab")
+		(uuid "ab578f06-4176-4b17-a167-3d8c5fd6a72a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2369ec13-932b-4103-8395-cad4411bf609")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9ebd2d2b-d315-4268-8f3b-1e63e5d34a28")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Kingbright"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5eec9516-e8bf-4097-9826-c21541cdc5f4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "0.7mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d0cab47b-dcd3-4438-bb9b-17459c58ac6e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "0606 Kingbright"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fc1b9ae1-4b3c-4958-84d3-ae57972c75e3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "565736d8-a30f-4655-b4ad-7e30ba88f4f8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/APTF1616LSEEZGKQBKC/Kingbright/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2373cf02-4168-48aa-8b42-140938ed8232")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "Manufacturer Recommendations"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "14b2bd54-d22f-488c-9f4d-7994dbc613d5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "V.14A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6a6d6cc7-119c-4831-86cc-98c71456b43b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/APTF1616LSEEZGKQBKC/Kingbright/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b18dd953-d4eb-442a-9a0d-48b2ac2c2210")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "APTF1616LSEEZGKQBKC"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5c06e178-c254-435f-b3e9-f4f45fcd3d2d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "\n                        \n                            Red, Green, Blue (RGB) 621nm Red, 525nm Green, 465nm Blue LED Indication - Discrete 1.8V Red, 2.7V Green, 2.7V Blue 0606 (1616 Metric)\n                        \n"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f0ba5e8b-f825-4e4d-9972-9b7874037909")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5c7147b2-0d27-4a86-b918-00f7efa1e082")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Kingbright"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8f3cdacc-663a-4b56-8fc3-79d097b6ec55")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C3019103"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "47b3ca21-1b3a-4a49-bfb9-058ab3b3c4a8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/RGB Backlighting/")
+	(sheetfile "RGB Backlighting.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_circle
+		(center 2.145 0.5)
+		(end 2.245 0.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "202640c2-502d-4e0d-ac3a-48982e81d578")
+	)
+	(fp_line
+		(start -1.55 -1.05)
+		(end -1.55 1.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fb629148-014b-47ff-9d2c-c537de44b2ce")
+	)
+	(fp_line
+		(start -1.55 1.05)
+		(end 1.55 1.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b07bc052-90ad-49c8-a262-c255b6ba8f32")
+	)
+	(fp_line
+		(start 1.55 -1.05)
+		(end -1.55 -1.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "733b1152-9805-4efc-962f-ddb6969f55f1")
+	)
+	(fp_line
+		(start 1.55 1.05)
+		(end 1.55 -1.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "51dfbc0f-26cf-432f-836b-be170c3d2bba")
+	)
+	(fp_line
+		(start -0.8 -0.8)
+		(end 0.8 -0.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "82fb4b6d-6f5a-4794-bbcb-ea4e98bc2890")
+	)
+	(fp_line
+		(start -0.8 0.8)
+		(end -0.8 -0.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f10e1f14-2d2e-4808-9e87-6cc40f840aa9")
+	)
+	(fp_line
+		(start 0.8 -0.8)
+		(end 0.8 0.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2655842b-3d89-47ba-8fe9-b62ab1156b0c")
+	)
+	(fp_line
+		(start 0.8 0.8)
+		(end -0.8 0.8)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "03ce15e2-4844-497f-9a02-2991517e0351")
+	)
+	(fp_circle
+		(center 2.145 0.5)
+		(end 2.245 0.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "0d1856fe-f2bf-40a0-bf8d-5866f298dc15")
+	)
+	(pad "1" smd rect
+		(at 0.875 0.5)
+		(size 0.85 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "64066161-7d7c-4f7c-8852-9ac5ef266436")
+	)
+	(pad "2" smd rect
+		(at -0.875 0.5)
+		(size 0.85 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "168a7128-10ef-44cc-bfd0-717893ccaafc")
+	)
+	(pad "3" smd rect
+		(at -0.875 -0.5)
+		(size 0.85 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "46bcbc54-da36-41a5-b8df-31e12183178c")
+	)
+	(pad "4" smd rect
+		(at 0.875 -0.5)
+		(size 0.85 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "d032fbdf-85ec-466e-8a87-f9314e5dfe02")
+	)
+	(embedded_fonts no)
+)

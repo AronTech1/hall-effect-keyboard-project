@@ -1683,6 +1683,66 @@
 		)
 		(uuid "60d4b7f6-03fb-43e4-ab5e-d922c9597ed1")
 	)
+	(text "1.75"
+		(exclude_from_sim no)
+		(at 53.086 128.778 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "757e5058-1d80-4e33-b61d-60e5acf8f94b")
+	)
+	(text "2.25"
+		(exclude_from_sim no)
+		(at 450.088 128.778 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "b281a48f-5019-473c-8244-1227689f5239")
+	)
+	(text "2.25"
+		(exclude_from_sim no)
+		(at 38.354 152.908 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "cee90869-c6cd-4d4c-81e6-496ff37d43af")
+	)
+	(text "1.5"
+		(exclude_from_sim no)
+		(at 53.848 105.918 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "d3542b7e-08ef-4eff-b1dc-ab422b21a067")
+	)
+	(text "1.5"
+		(exclude_from_sim no)
+		(at 480.822 105.918 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+			)
+		)
+		(uuid "e82b917f-fa22-42e5-8ee2-d5c0f5ab4a06")
+	)
 	(junction
 		(at 318.77 83.82)
 		(diameter 0)
@@ -1988,12 +2048,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4cd52738-a2a1-4a0c-8001-b753b108e4d8")
-	)
-	(junction
-		(at 66.04 153.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4d39d872-a60f-427d-b311-a8e5eacc57ea")
 	)
 	(junction
 		(at 148.59 54.61)
@@ -2696,12 +2750,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f8d1aee8-542a-4774-ba74-ba69c143f264")
-	)
-	(junction
-		(at 53.34 144.78)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f8d8903c-ab3c-4127-aa3e-72dc841ea7ee")
 	)
 	(junction
 		(at 515.62 176.53)
@@ -3508,16 +3556,6 @@
 			(type default)
 		)
 		(uuid "123a5eef-9cf0-4a2a-8bcc-c3b7a8820fbb")
-	)
-	(wire
-		(pts
-			(xy 53.34 144.78) (xy 53.34 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "128de7ed-3ebe-4159-aa77-25fcb8a9c203")
 	)
 	(wire
 		(pts
@@ -4561,16 +4599,6 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 144.78) (xy 78.74 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3bbc1a8f-cae4-4886-b237-0a320d66fdea")
-	)
-	(wire
-		(pts
 			(xy 20.32 74.93) (xy 20.32 76.2)
 		)
 		(stroke
@@ -5261,16 +5289,6 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 153.67) (xy 78.74 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5012a83d-4133-41ef-a488-c0d47946f0e5")
-	)
-	(wire
-		(pts
 			(xy 106.68 167.64) (xy 110.49 167.64)
 		)
 		(stroke
@@ -5668,16 +5686,6 @@
 			(type default)
 		)
 		(uuid "6280f139-0b97-4328-834b-70ab595d9912")
-	)
-	(wire
-		(pts
-			(xy 53.34 153.67) (xy 66.04 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "62a0b7bc-e98e-4c07-8cb5-2881adb8208a")
 	)
 	(wire
 		(pts
@@ -7191,16 +7199,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 144.78) (xy 78.74 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "944ec6b7-0b3f-445b-8328-e4677ae9a9e2")
-	)
-	(wire
-		(pts
 			(xy 454.66 229.87) (xy 459.74 229.87)
 		)
 		(stroke
@@ -8061,16 +8059,6 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 154.94) (xy 66.04 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b0ffe9fb-8b74-479d-abb1-6cd841f2e6d9")
-	)
-	(wire
-		(pts
 			(xy 477.52 106.68) (xy 490.22 106.68)
 		)
 		(stroke
@@ -8671,16 +8659,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 143.51) (xy 53.34 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c46de3e3-0e1d-41f1-9a0b-c0625530389d")
-	)
-	(wire
-		(pts
 			(xy 422.91 120.65) (xy 426.72 120.65)
 		)
 		(stroke
@@ -9018,16 +8996,6 @@
 			(type default)
 		)
 		(uuid "ce3f424e-8a31-4622-a88c-2b11bc8191c1")
-	)
-	(wire
-		(pts
-			(xy 53.34 144.78) (xy 57.15 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ce6e83e0-3e40-46a3-b6e2-2f1f813830aa")
 	)
 	(wire
 		(pts
@@ -10388,16 +10356,6 @@
 			(type default)
 		)
 		(uuid "fbbf905d-1f64-4fae-bbc7-9ff08cdf5147")
-	)
-	(wire
-		(pts
-			(xy 66.04 152.4) (xy 66.04 153.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fbeb3bca-08fa-460f-b1e7-920137d47ec2")
 	)
 	(wire
 		(pts
@@ -13640,30 +13598,6 @@
 			)
 		)
 	)
-	(global_label "HE65"
-		(shape input)
-		(at 78.74 144.78 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6b5766cb-e43e-4a6c-8e6c-d72205a60edb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 78.74 136.8963 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "HE1"
 		(shape input)
 		(at 116.84 248.92 0)
@@ -14733,30 +14667,6 @@
 		(uuid "a5234ba9-5295-4057-9a86-cb6c6ebcc3c9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 123.7481 264.16 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "HE65"
-		(shape input)
-		(at 116.84 274.32 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a6f890d2-022b-43ab-b10e-842b32a5eed6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 123.7481 274.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16291,7 +16201,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "001f41fb-774c-48d6-9a5d-d6302ef5cc25")
-		(property "Reference" "#PWR087"
+		(property "Reference" "#PWR0141"
 			(at 565.15 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -16351,7 +16261,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR087")
+					(reference "#PWR0141")
 					(unit 1)
 				)
 			)
@@ -16368,7 +16278,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "00224085-21aa-4c85-aab9-e631d5897130")
-		(property "Reference" "#PWR0224"
+		(property "Reference" "#PWR0276"
 			(at 330.2 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -16428,84 +16338,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0224")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 66.04 154.94 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "013ef526-fca4-4eeb-ae3a-95e051d73885")
-		(property "Reference" "#PWR0180"
-			(at 66.04 161.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 62.484 156.464 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 66.04 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 66.04 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 66.04 154.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8529bb21-17ea-4979-ae46-469c76fc5183")
-		)
-		(instances
-			(project "75all% H-Effect Gaming Keyboard"
-				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0180")
+					(reference "#PWR0276")
 					(unit 1)
 				)
 			)
@@ -16543,7 +16376,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 350.52 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -16640,7 +16473,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "02433586-b052-4e6b-b6c1-5e52cbb03567")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR0101"
 			(at 116.84 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -16700,7 +16533,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR047")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -16717,7 +16550,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "02a1431c-5794-43c6-9383-55434d1ca9f5")
-		(property "Reference" "#PWR0169"
+		(property "Reference" "#PWR0222"
 			(at 148.59 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -16777,7 +16610,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0169")
+					(reference "#PWR0222")
 					(unit 1)
 				)
 			)
@@ -17103,7 +16936,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "03fdafc1-90d3-4eeb-b824-a4d92998ff63")
-		(property "Reference" "#PWR0223"
+		(property "Reference" "#PWR0275"
 			(at 256.54 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -17163,7 +16996,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0223")
+					(reference "#PWR0275")
 					(unit 1)
 				)
 			)
@@ -17181,7 +17014,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "042a0612-1a6c-4674-af15-1a02e1dfecbd")
-		(property "Reference" "HE79"
+		(property "Reference" "HE78"
 			(at 384.81 161.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17201,7 +17034,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1.25u"
 			(at 384.81 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -17281,7 +17114,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE79")
+					(reference "HE78")
 					(unit 1)
 				)
 			)
@@ -17299,7 +17132,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0520896f-3bee-42c5-abc5-8acb8a88d741")
-		(property "Reference" "HE73"
+		(property "Reference" "HE72"
 			(at 445.77 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17319,7 +17152,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 445.77 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -17399,7 +17232,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE73")
+					(reference "HE72")
 					(unit 1)
 				)
 			)
@@ -17643,7 +17476,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 97.79 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -17843,7 +17676,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "060b6227-09d2-4395-8e3b-b81e4dd8ba5a")
-		(property "Reference" "#PWR0201"
+		(property "Reference" "#PWR0253"
 			(at 502.92 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -17903,7 +17736,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0201")
+					(reference "#PWR0253")
 					(unit 1)
 				)
 			)
@@ -17920,7 +17753,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "07af849b-b821-4514-8b22-bcdfbbe2a5a0")
-		(property "Reference" "#PWR0126"
+		(property "Reference" "#PWR0180"
 			(at 191.77 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -17980,7 +17813,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0126")
+					(reference "#PWR0180")
 					(unit 1)
 				)
 			)
@@ -17997,7 +17830,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "08289e35-ee0a-491b-b7c6-4e2cd5bb6b68")
-		(property "Reference" "#PWR0161"
+		(property "Reference" "#PWR0215"
 			(at 350.52 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -18057,7 +17890,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0161")
+					(reference "#PWR0215")
 					(unit 1)
 				)
 			)
@@ -18095,7 +17928,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 237.49 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -18192,7 +18025,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "088f0ef3-3c4c-456c-babe-818f1f83755a")
-		(property "Reference" "#PWR0121"
+		(property "Reference" "#PWR0175"
 			(at 565.15 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -18252,7 +18085,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0121")
+					(reference "#PWR0175")
 					(unit 1)
 				)
 			)
@@ -18269,7 +18102,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "09a8df2f-6259-4011-b5b4-11e20b4ba935")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR0110"
 			(at 434.34 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -18329,7 +18162,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR056")
+					(reference "#PWR0110")
 					(unit 1)
 				)
 			)
@@ -18346,7 +18179,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0a5411c9-d912-4017-9f8c-efb0a1f776f0")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR0155"
 			(at 462.28 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -18406,7 +18239,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0101")
+					(reference "#PWR0155")
 					(unit 1)
 				)
 			)
@@ -18423,7 +18256,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0a8c195c-d824-4532-9ade-5b3a76548ada")
-		(property "Reference" "#PWR0211"
+		(property "Reference" "#PWR0263"
 			(at 480.06 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -18483,7 +18316,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0211")
+					(reference "#PWR0263")
 					(unit 1)
 				)
 			)
@@ -18603,7 +18436,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0c41e494-b436-403c-82c0-f8d7104e9ef2")
-		(property "Reference" "#PWR0141"
+		(property "Reference" "#PWR0195"
 			(at 115.57 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -18663,7 +18496,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0141")
+					(reference "#PWR0195")
 					(unit 1)
 				)
 			)
@@ -18701,7 +18534,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 223.52 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -18819,7 +18652,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 96.52 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -18916,7 +18749,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0cb93310-c880-4802-a8db-ea8d3faf4c08")
-		(property "Reference" "Cy81"
+		(property "Reference" "Cy80"
 			(at 456.946 170.434 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19002,7 +18835,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy81")
+					(reference "Cy80")
 					(unit 1)
 				)
 			)
@@ -19020,7 +18853,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d213fcf-40fa-41fa-b546-92ff11221ac2")
-		(property "Reference" "C22"
+		(property "Reference" "C42"
 			(at 332.74 229.8763 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19084,7 +18917,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "C22")
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -19101,7 +18934,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0d4361bc-059a-4cfd-89d4-712a180edef2")
-		(property "Reference" "#PWR0137"
+		(property "Reference" "#PWR0191"
 			(at 546.1 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -19161,7 +18994,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0137")
+					(reference "#PWR0191")
 					(unit 1)
 				)
 			)
@@ -19178,7 +19011,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0e6742fe-648b-4e0a-8e9e-3edb68b7eaef")
-		(property "Reference" "Cx73"
+		(property "Reference" "Cx72"
 			(at 433.578 147.828 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19264,7 +19097,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx73")
+					(reference "Cx72")
 					(unit 1)
 				)
 			)
@@ -19281,7 +19114,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0ed17cda-e671-4bac-adf4-c38c97df4920")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR0131"
 			(at 210.82 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -19341,7 +19174,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR077")
+					(reference "#PWR0131")
 					(unit 1)
 				)
 			)
@@ -19358,7 +19191,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0f133f81-2d9f-4d34-831e-d16d20d1709f")
-		(property "Reference" "#PWR090"
+		(property "Reference" "#PWR0144"
 			(at 96.52 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -19418,7 +19251,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR090")
+					(reference "#PWR0144")
 					(unit 1)
 				)
 			)
@@ -19435,7 +19268,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0f8f3be9-2e93-4aba-9e6b-08ad926e857b")
-		(property "Reference" "#PWR0111"
+		(property "Reference" "#PWR0165"
 			(at 242.57 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -19495,7 +19328,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0111")
+					(reference "#PWR0165")
 					(unit 1)
 				)
 			)
@@ -19615,7 +19448,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1126555d-6f81-4b97-837d-f4c18561aa31")
-		(property "Reference" "Cy83"
+		(property "Reference" "Cy82"
 			(at 524.256 170.434 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19701,7 +19534,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy83")
+					(reference "Cy82")
 					(unit 1)
 				)
 			)
@@ -19821,7 +19654,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "12f17a1e-1a03-424c-b635-718a4a91e88e")
-		(property "Reference" "#PWR0150"
+		(property "Reference" "#PWR0204"
 			(at 401.32 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -19881,7 +19714,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0150")
+					(reference "#PWR0204")
 					(unit 1)
 				)
 			)
@@ -19898,7 +19731,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "13790eb6-0240-4ff0-a264-11451938b273")
-		(property "Reference" "#PWR085"
+		(property "Reference" "#PWR0139"
 			(at 501.65 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -19958,7 +19791,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR085")
+					(reference "#PWR0139")
 					(unit 1)
 				)
 			)
@@ -19996,7 +19829,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 191.77 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -20093,7 +19926,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "145b9313-0329-41fe-9d51-c41588143663")
-		(property "Reference" "#PWR0114"
+		(property "Reference" "#PWR0168"
 			(at 337.82 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -20153,7 +19986,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0114")
+					(reference "#PWR0168")
 					(unit 1)
 				)
 			)
@@ -20171,7 +20004,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14e583c2-bacb-4f4d-9b41-3f8ef800b575")
-		(property "Reference" "U5"
+		(property "Reference" "U10"
 			(at 182.5977 240.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20302,7 +20135,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "U5")
+					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -20319,7 +20152,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "155baf3e-013c-4a0d-b4df-844cd486f0d0")
-		(property "Reference" "Cx65"
+		(property "Reference" "Cx64"
 			(at 149.098 147.828 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20405,7 +20238,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx65")
+					(reference "Cx64")
 					(unit 1)
 				)
 			)
@@ -20422,7 +20255,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "158f0e50-2b87-4ccd-b465-52cbd86adc6d")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR0102"
 			(at 148.59 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -20482,7 +20315,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR048")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -20499,7 +20332,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "167bc079-b872-4706-9b25-72fe814b18da")
-		(property "Reference" "#PWR0177"
+		(property "Reference" "#PWR0230"
 			(at 433.07 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -20559,7 +20392,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0177")
+					(reference "#PWR0230")
 					(unit 1)
 				)
 			)
@@ -20885,7 +20718,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "190f540e-84ab-4e73-b335-26ad63affe47")
-		(property "Reference" "#PWR0112"
+		(property "Reference" "#PWR0166"
 			(at 274.32 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -20945,7 +20778,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0112")
+					(reference "#PWR0166")
 					(unit 1)
 				)
 			)
@@ -21189,7 +21022,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 160.02 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -21286,7 +21119,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1e06f755-7660-4a7c-beb4-2c0afdd7cf9c")
-		(property "Reference" "Cx64"
+		(property "Reference" "Cx63"
 			(at 117.348 147.828 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21372,7 +21205,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx64")
+					(reference "Cx63")
 					(unit 1)
 				)
 			)
@@ -21513,7 +21346,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 255.27 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -21714,7 +21547,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "21683b33-8095-4faa-a150-badb6e0beb54")
-		(property "Reference" "U7"
+		(property "Reference" "U12"
 			(at 327.3777 240.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21845,7 +21678,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "U7")
+					(reference "U12")
 					(unit 1)
 				)
 			)
@@ -21862,7 +21695,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "220bf1d4-f359-4e57-b3f6-c9b5bfcbac5e")
-		(property "Reference" "#PWR0202"
+		(property "Reference" "#PWR0254"
 			(at 534.67 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -21922,7 +21755,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0202")
+					(reference "#PWR0254")
 					(unit 1)
 				)
 			)
@@ -21940,7 +21773,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2266801b-1eda-4c0a-b9db-5a5f0a45cf3c")
-		(property "Reference" "U4"
+		(property "Reference" "U9"
 			(at 106.3977 240.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22071,7 +21904,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "U4")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -22088,7 +21921,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "22bfcd4a-5b70-460e-8c8c-c3f803d669e1")
-		(property "Reference" "Cy85"
+		(property "Reference" "Cy84"
 			(at 587.756 170.434 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22174,7 +22007,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy85")
+					(reference "Cy84")
 					(unit 1)
 				)
 			)
@@ -22397,7 +22230,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2551ffce-9d82-47f4-82e5-74fc7a1601d2")
-		(property "Reference" "Cy77"
+		(property "Reference" "Cy76"
 			(at 106.426 170.434 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22483,7 +22316,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy77")
+					(reference "Cy76")
 					(unit 1)
 				)
 			)
@@ -22501,7 +22334,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "258637c8-5103-470c-884c-a9e74e60b498")
-		(property "Reference" "C21"
+		(property "Reference" "C41"
 			(at 259.08 229.8763 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22565,7 +22398,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "C21")
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -22582,7 +22415,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "268fd53a-7500-4252-84a7-f0826160cdbe")
-		(property "Reference" "#PWR0219"
+		(property "Reference" "#PWR0272"
 			(at 454.66 233.68 0)
 			(hide yes)
 			(show_name no)
@@ -22642,7 +22475,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0219")
+					(reference "#PWR0272")
 					(unit 1)
 				)
 			)
@@ -22659,7 +22492,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "27d1923c-f7bb-4acc-8244-6d74a50ee4ba")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR0115"
 			(at 161.29 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -22719,7 +22552,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR061")
+					(reference "#PWR0115")
 					(unit 1)
 				)
 			)
@@ -22736,7 +22569,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2895e9a3-d9ed-4c8e-b04b-1627805bdba1")
-		(property "Reference" "#PWR0188"
+		(property "Reference" "#PWR0240"
 			(at 320.04 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -22796,7 +22629,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0188")
+					(reference "#PWR0240")
 					(unit 1)
 				)
 			)
@@ -22813,7 +22646,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "28aa4b2a-d3b8-40dc-a1e0-205e0d3af702")
-		(property "Reference" "#PWR0142"
+		(property "Reference" "#PWR0196"
 			(at 147.32 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -22873,7 +22706,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0142")
+					(reference "#PWR0196")
 					(unit 1)
 				)
 			)
@@ -22890,7 +22723,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "295610b6-a9ed-4f5c-afe7-5058be42b8f0")
-		(property "Reference" "Cx78"
+		(property "Reference" "Cx77"
 			(at 212.598 170.688 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22976,7 +22809,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx78")
+					(reference "Cx77")
 					(unit 1)
 				)
 			)
@@ -22993,7 +22826,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2b2ce426-8d6d-4003-a14b-94ee5309a112")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR0107"
 			(at 320.04 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -23053,7 +22886,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR053")
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -23070,7 +22903,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2b48f027-8e77-4d94-9b9c-cdebb1f92404")
-		(property "Reference" "Cy63"
+		(property "Reference" "Cy62"
 			(at 106.426 147.574 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23156,7 +22989,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy63")
+					(reference "Cy62")
 					(unit 1)
 				)
 			)
@@ -23173,7 +23006,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2b9a3b6a-8ddb-4b3d-845e-90df819e3ef9")
-		(property "Reference" "Cy70"
+		(property "Reference" "Cy69"
 			(at 328.676 147.574 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23259,7 +23092,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy70")
+					(reference "Cy69")
 					(unit 1)
 				)
 			)
@@ -23297,7 +23130,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 161.29 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -23498,7 +23331,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d01403f-3813-4ab3-ac27-e204d8c270f7")
-		(property "Reference" "U6"
+		(property "Reference" "U11"
 			(at 253.7177 240.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23629,7 +23462,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "U6")
+					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -23646,7 +23479,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2f2b915e-2740-4a22-b538-2b4b9eccbc95")
-		(property "Reference" "Cy80"
+		(property "Reference" "Cy79"
 			(at 425.196 170.434 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23732,7 +23565,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy80")
+					(reference "Cy79")
 					(unit 1)
 				)
 			)
@@ -23749,7 +23582,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2f3e5d02-e725-4bfa-b0fd-6734a9d947d8")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR099"
 			(at 20.32 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -23809,7 +23642,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR045")
+					(reference "#PWR099")
 					(unit 1)
 				)
 			)
@@ -23826,7 +23659,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2ff6317a-ab66-4b60-b3ce-8b1cbc232818")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR0100"
 			(at 85.09 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -23886,7 +23719,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR046")
+					(reference "#PWR0100")
 					(unit 1)
 				)
 			)
@@ -23903,7 +23736,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2ffd1814-b68a-4c5d-8a70-5140cef2166a")
-		(property "Reference" "#PWR0155"
+		(property "Reference" "#PWR0209"
 			(at 160.02 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -23963,7 +23796,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0155")
+					(reference "#PWR0209")
 					(unit 1)
 				)
 			)
@@ -23980,7 +23813,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "30c61879-7087-468c-a702-337563485b34")
-		(property "Reference" "#PWR0193"
+		(property "Reference" "#PWR0245"
 			(at 21.59 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -24040,7 +23873,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0193")
+					(reference "#PWR0245")
 					(unit 1)
 				)
 			)
@@ -24057,7 +23890,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "31069954-b4da-4b45-8df6-85bb9b2507ad")
-		(property "Reference" "#PWR0102"
+		(property "Reference" "#PWR0156"
 			(at 514.35 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -24117,7 +23950,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0102")
+					(reference "#PWR0156")
 					(unit 1)
 				)
 			)
@@ -24134,7 +23967,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "316eb0ba-e589-4e7b-97ad-136d7eeb98c7")
-		(property "Reference" "#PWR0187"
+		(property "Reference" "#PWR0239"
 			(at 288.29 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -24194,7 +24027,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0187")
+					(reference "#PWR0239")
 					(unit 1)
 				)
 			)
@@ -24232,7 +24065,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 478.79 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -24329,7 +24162,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "33cc7d89-b616-40c9-acf3-8087362d7cce")
-		(property "Reference" "#PWR0153"
+		(property "Reference" "#PWR0207"
 			(at 96.52 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -24389,7 +24222,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0153")
+					(reference "#PWR0207")
 					(unit 1)
 				)
 			)
@@ -24406,7 +24239,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "33ea7b48-2aac-4989-a44f-bb74b2dca9ac")
-		(property "Reference" "#PWR0227"
+		(property "Reference" "#PWR0279"
 			(at 85.09 281.94 0)
 			(hide yes)
 			(show_name no)
@@ -24466,7 +24299,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0227")
+					(reference "#PWR0279")
 					(unit 1)
 				)
 			)
@@ -24689,7 +24522,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "34a97079-eaae-4330-bdef-82d54a1830d3")
-		(property "Reference" "#PWR0143"
+		(property "Reference" "#PWR0197"
 			(at 179.07 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -24749,7 +24582,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0143")
+					(reference "#PWR0197")
 					(unit 1)
 				)
 			)
@@ -24890,7 +24723,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 191.77 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -24987,7 +24820,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "36757068-6a53-4fb5-91b3-ef445dd9ab30")
-		(property "Reference" "Cx66"
+		(property "Reference" "Cx65"
 			(at 180.848 147.828 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25073,7 +24906,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx66")
+					(reference "Cx65")
 					(unit 1)
 				)
 			)
@@ -25193,7 +25026,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "375ae36e-be63-41c8-b177-ced699492dc7")
-		(property "Reference" "#PWR0110"
+		(property "Reference" "#PWR0164"
 			(at 210.82 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -25253,7 +25086,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0110")
+					(reference "#PWR0164")
 					(unit 1)
 				)
 			)
@@ -25270,7 +25103,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "378f2206-6812-4fc8-8467-81f3790efa43")
-		(property "Reference" "#PWR0135"
+		(property "Reference" "#PWR0189"
 			(at 477.52 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -25330,7 +25163,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0135")
+					(reference "#PWR0189")
 					(unit 1)
 				)
 			)
@@ -25450,7 +25283,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3851c28c-767c-46b0-9ad7-fddd4d34b91c")
-		(property "Reference" "Cy79"
+		(property "Reference" "Cy78"
 			(at 393.446 170.434 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25536,7 +25369,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy79")
+					(reference "Cy78")
 					(unit 1)
 				)
 			)
@@ -25656,7 +25489,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "385f6679-f32b-4da4-a524-3d180a534c42")
-		(property "Reference" "#PWR098"
+		(property "Reference" "#PWR0152"
 			(at 350.52 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -25716,7 +25549,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR098")
+					(reference "#PWR0152")
 					(unit 1)
 				)
 			)
@@ -25836,7 +25669,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3a1fcdcb-da49-4289-9ea0-7ad29dc27fae")
-		(property "Reference" "Cy72"
+		(property "Reference" "Cy71"
 			(at 392.176 147.574 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25922,7 +25755,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy72")
+					(reference "Cy71")
 					(unit 1)
 				)
 			)
@@ -25960,7 +25793,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 382.27 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -26057,7 +25890,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3b1bb763-929a-4353-863c-ef60b312241b")
-		(property "Reference" "#PWR0167"
+		(property "Reference" "#PWR0220"
 			(at 85.09 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -26117,7 +25950,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0167")
+					(reference "#PWR0220")
 					(unit 1)
 				)
 			)
@@ -26134,7 +25967,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3c37b012-508e-42b3-9eca-3b7b91f451a1")
-		(property "Reference" "#PWR0214"
+		(property "Reference" "#PWR0266"
 			(at 579.12 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -26194,7 +26027,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0214")
+					(reference "#PWR0266")
 					(unit 1)
 				)
 			)
@@ -26212,7 +26045,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c4e4ea8-d01f-4c52-9c2e-eb3833fb6045")
-		(property "Reference" "HE77"
+		(property "Reference" "HE76"
 			(at 97.79 161.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26232,7 +26065,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1.25u"
 			(at 97.79 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -26312,7 +26145,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE77")
+					(reference "HE76")
 					(unit 1)
 				)
 			)
@@ -26329,7 +26162,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3d368103-d504-42ae-ba14-446a2b805f55")
-		(property "Reference" "#PWR0156"
+		(property "Reference" "#PWR0210"
 			(at 191.77 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -26389,7 +26222,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0156")
+					(reference "#PWR0210")
 					(unit 1)
 				)
 			)
@@ -26407,7 +26240,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3e63bc41-d88e-4f57-b6d3-2e0962c87293")
-		(property "Reference" "HE66"
+		(property "Reference" "HE65"
 			(at 193.04 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26427,7 +26260,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 193.04 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -26507,7 +26340,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE66")
+					(reference "HE65")
 					(unit 1)
 				)
 			)
@@ -26524,7 +26357,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3f6cc453-7387-4d9f-b506-592a6c5128ef")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR0108"
 			(at 370.84 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -26584,7 +26417,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR054")
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -26622,7 +26455,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 350.52 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -26720,7 +26553,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ffdd9b8-810f-43fb-8a37-30dc9a83aefa")
-		(property "Reference" "HE75"
+		(property "Reference" "HE74"
 			(at 34.29 161.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26740,7 +26573,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1.25u"
 			(at 34.29 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -26820,7 +26653,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE75")
+					(reference "HE74")
 					(unit 1)
 				)
 			)
@@ -26837,7 +26670,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "40773b73-8985-4cdf-892c-3e4520e5f56e")
-		(property "Reference" "#PWR0229"
+		(property "Reference" "#PWR0281"
 			(at 232.41 281.94 0)
 			(hide yes)
 			(show_name no)
@@ -26897,7 +26730,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0229")
+					(reference "#PWR0281")
 					(unit 1)
 				)
 			)
@@ -27017,7 +26850,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "41802ddd-a53b-4dce-afab-ffec5b847e4d")
-		(property "Reference" "#PWR0181"
+		(property "Reference" "#PWR0233"
 			(at 97.79 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -27077,7 +26910,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0181")
+					(reference "#PWR0233")
 					(unit 1)
 				)
 			)
@@ -27094,7 +26927,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "41d35a03-2964-4557-9dd5-052b5e436de3")
-		(property "Reference" "#PWR0109"
+		(property "Reference" "#PWR0163"
 			(at 179.07 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -27154,7 +26987,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0109")
+					(reference "#PWR0163")
 					(unit 1)
 				)
 			)
@@ -27378,7 +27211,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "432abbae-6456-43d2-a5fd-81a5e6143fcd")
-		(property "Reference" "HE63"
+		(property "Reference" "HE62"
 			(at 97.79 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27398,7 +27231,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 97.79 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -27478,7 +27311,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE63")
+					(reference "HE62")
 					(unit 1)
 				)
 			)
@@ -27495,7 +27328,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "435846d3-d450-4993-8732-0fedca6b5b1d")
-		(property "Reference" "#PWR0232"
+		(property "Reference" "#PWR0284"
 			(at 435.61 283.21 0)
 			(hide yes)
 			(show_name no)
@@ -27555,7 +27388,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0232")
+					(reference "#PWR0284")
 					(unit 1)
 				)
 			)
@@ -27778,7 +27611,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "45be5300-dbc3-4e45-b0be-e195c8ad3b66")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR0113"
 			(at 97.79 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -27838,7 +27671,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR059")
+					(reference "#PWR0113")
 					(unit 1)
 				)
 			)
@@ -27855,7 +27688,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "466b3c7f-8ea4-431f-a337-6df55353a3da")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR0105"
 			(at 256.54 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -27915,125 +27748,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR051")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "lib:SW_MX_HE")
-		(at 66.04 147.32 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "469c71cc-8508-455f-b17d-36a39bd1382d")
-		(property "Reference" "HE62"
-			(at 66.04 138.43 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_MX_HE"
-			(at 66.04 140.97 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
-			(at 66.04 156.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-				(justify left)
-			)
-		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2310271810_Hallwee-HAL9303SO_C19089525.pdf"
-			(at 66.04 130.81 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Hall effect switch, bipolar, -+1000Gs, 4.7mV/Gs, -40C to +150C, SOT-23"
-			(at 66.04 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C5447698"
-			(at 66.04 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 66.04 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 66.04 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "69a2ef61-06f9-4a26-957b-898426f37837")
-		)
-		(pin "2"
-			(uuid "764bc3db-a326-449e-9dd0-0a7fb3d5a4a2")
-		)
-		(pin "3"
-			(uuid "a90a935d-bca0-478d-afc1-13c453967f2b")
-		)
-		(instances
-			(project "75all% H-Effect Gaming Keyboard"
-				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE62")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -28153,7 +27868,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "479f6566-9923-4838-85d1-2836bb55c99d")
-		(property "Reference" "#PWR0107"
+		(property "Reference" "#PWR0161"
 			(at 115.57 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -28213,7 +27928,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0107")
+					(reference "#PWR0161")
 					(unit 1)
 				)
 			)
@@ -28230,7 +27945,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "486eafc8-611f-4184-9e20-1361bc99e45d")
-		(property "Reference" "Cx79"
+		(property "Reference" "Cx78"
 			(at 372.618 170.688 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28316,7 +28031,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx79")
+					(reference "Cx78")
 					(unit 1)
 				)
 			)
@@ -28436,7 +28151,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "49bd7b54-8106-4253-a8d4-34d510c526a5")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR0127"
 			(at 83.82 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -28496,7 +28211,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR073")
+					(reference "#PWR0127")
 					(unit 1)
 				)
 			)
@@ -28534,7 +28249,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 382.27 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -28631,7 +28346,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4a8334df-be2e-4ac6-9b79-9ae3950eeb9d")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR0111"
 			(at 466.09 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -28691,7 +28406,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR057")
+					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
@@ -28729,7 +28444,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 287.02 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -28826,7 +28541,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4bbd4440-6eca-4a0a-84b2-70aa01831437")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR0137"
 			(at 401.32 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -28886,7 +28601,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR083")
+					(reference "#PWR0137")
 					(unit 1)
 				)
 			)
@@ -29006,7 +28721,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4c0a9e49-c6ba-4cec-a0a6-f52e84784e6f")
-		(property "Reference" "#PWR0200"
+		(property "Reference" "#PWR0252"
 			(at 467.36 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -29066,7 +28781,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0200")
+					(reference "#PWR0252")
 					(unit 1)
 				)
 			)
@@ -29084,7 +28799,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ccf030b-2c66-4590-97dc-26571802400c")
-		(property "Reference" "HE80"
+		(property "Reference" "HE79"
 			(at 416.56 161.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29104,7 +28819,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1.25u"
 			(at 416.56 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -29184,7 +28899,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE80")
+					(reference "HE79")
 					(unit 1)
 				)
 			)
@@ -29201,7 +28916,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4e6d2a3f-97cc-4e4f-89bc-a79ee35a4c28")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR0114"
 			(at 129.54 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -29261,7 +28976,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR060")
+					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -29279,7 +28994,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ed6e7cd-9e0f-414f-90d6-f08e40728199")
-		(property "Reference" "HE85"
+		(property "Reference" "HE84"
 			(at 579.12 161.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29299,7 +29014,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 579.12 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -29379,7 +29094,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE85")
+					(reference "HE84")
 					(unit 1)
 				)
 			)
@@ -29396,7 +29111,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4f198c97-9d60-4b20-84a2-83815fdbc904")
-		(property "Reference" "#PWR093"
+		(property "Reference" "#PWR0147"
 			(at 191.77 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -29456,7 +29171,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR093")
+					(reference "#PWR0147")
 					(unit 1)
 				)
 			)
@@ -29473,7 +29188,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4f29780e-376c-44b9-934d-b3bb953f5f03")
-		(property "Reference" "#PWR0194"
+		(property "Reference" "#PWR0246"
 			(at 53.34 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -29533,7 +29248,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0194")
+					(reference "#PWR0246")
 					(unit 1)
 				)
 			)
@@ -29571,7 +29286,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 415.29 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -29668,7 +29383,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "50ca7961-5cb9-434f-9f4b-fbfc4202a624")
-		(property "Reference" "#PWR0146"
+		(property "Reference" "#PWR0200"
 			(at 274.32 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -29728,7 +29443,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0146")
+					(reference "#PWR0200")
 					(unit 1)
 				)
 			)
@@ -29745,7 +29460,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5364df71-1371-4b5c-acaf-f58f4daaef32")
-		(property "Reference" "#PWR0165"
+		(property "Reference" "#PWR0219"
 			(at 21.59 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -29805,7 +29520,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0165")
+					(reference "#PWR0219")
 					(unit 1)
 				)
 			)
@@ -29822,7 +29537,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "53ccaa56-d1d2-4e22-8824-e09228395d40")
-		(property "Reference" "Cy69"
+		(property "Reference" "Cy68"
 			(at 296.926 147.574 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29908,7 +29623,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy69")
+					(reference "Cy68")
 					(unit 1)
 				)
 			)
@@ -29946,7 +29661,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 382.27 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -30043,7 +29758,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5485ba69-4d4b-4d20-b19e-ccaf33b486f6")
-		(property "Reference" "#PWR0184"
+		(property "Reference" "#PWR0236"
 			(at 193.04 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -30103,7 +29818,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0184")
+					(reference "#PWR0236")
 					(unit 1)
 				)
 			)
@@ -30120,7 +29835,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "54cf8252-272e-4fff-845c-972bcd76f36b")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR0122"
 			(at 415.29 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -30180,7 +29895,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR068")
+					(reference "#PWR0122")
 					(unit 1)
 				)
 			)
@@ -30197,7 +29912,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "559846c9-2a47-4d42-ae42-856bcfce7b11")
-		(property "Reference" "Cy74"
+		(property "Reference" "Cy73"
 			(at 556.006 147.574 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30283,7 +29998,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy74")
+					(reference "Cy73")
 					(unit 1)
 				)
 			)
@@ -30424,7 +30139,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1.5u"
 			(at 477.52 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -30521,7 +30236,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5900b1b0-5068-4284-aa2d-d7c5bc3e5837")
-		(property "Reference" "#PWR0236"
+		(property "Reference" "#PWR0288"
 			(at 325.12 300.99 0)
 			(hide yes)
 			(show_name no)
@@ -30581,7 +30296,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0236")
+					(reference "#PWR0288")
 					(unit 1)
 				)
 			)
@@ -30598,7 +30313,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5a0baab7-ea25-4870-9ac0-7135858f2456")
-		(property "Reference" "Cy71"
+		(property "Reference" "Cy70"
 			(at 360.426 147.574 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30684,7 +30399,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy71")
+					(reference "Cy70")
 					(unit 1)
 				)
 			)
@@ -30701,7 +30416,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5a80a462-a17e-48f1-a317-5e197ff032bf")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR0116"
 			(at 193.04 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -30761,7 +30476,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR062")
+					(reference "#PWR0116")
 					(unit 1)
 				)
 			)
@@ -31108,7 +30823,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 193.04 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -31308,7 +31023,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5ce10516-7a89-4d91-ae74-7fb2a9b03d5c")
-		(property "Reference" "#PWR0131"
+		(property "Reference" "#PWR0185"
 			(at 350.52 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -31368,7 +31083,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0131")
+					(reference "#PWR0185")
 					(unit 1)
 				)
 			)
@@ -31406,7 +31121,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 160.02 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -31503,7 +31218,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5d1c70c0-3afd-40da-9cdb-310964d20afe")
-		(property "Reference" "#PWR0208"
+		(property "Reference" "#PWR0260"
 			(at 384.81 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -31563,7 +31278,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0208")
+					(reference "#PWR0260")
 					(unit 1)
 				)
 			)
@@ -31581,7 +31296,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d496c9e-a9a5-49da-8d8b-3e80851f4d1a")
-		(property "Reference" "HE78"
+		(property "Reference" "HE77"
 			(at 224.79 161.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31601,7 +31316,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 224.79 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -31681,7 +31396,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE78")
+					(reference "HE77")
 					(unit 1)
 				)
 			)
@@ -31801,7 +31516,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5f8eedf6-eff7-49a1-91eb-3271cc16d38d")
-		(property "Reference" "Cx68"
+		(property "Reference" "Cx67"
 			(at 244.348 147.828 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31887,7 +31602,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx68")
+					(reference "Cx67")
 					(unit 1)
 				)
 			)
@@ -31905,7 +31620,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5ff1ab9c-ffe0-4333-8ad7-36ab70b1184a")
-		(property "Reference" "S4"
+		(property "Reference" "S5"
 			(at 259.08 170.0529 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31927,7 +31642,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "lib:STAB_MX_P_6.25u"
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_6.25u"
 			(at 252.73 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -31985,7 +31700,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "S4")
+					(reference "S5")
 					(unit 1)
 				)
 			)
@@ -32023,7 +31738,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 332.74 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -32120,7 +31835,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "60920f25-4670-486b-a30b-567984d76125")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR0135"
 			(at 337.82 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -32180,7 +31895,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR081")
+					(reference "#PWR0135")
 					(unit 1)
 				)
 			)
@@ -32197,7 +31912,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "60bbc549-5bde-4ac4-9a03-6113725c62c9")
-		(property "Reference" "#PWR0225"
+		(property "Reference" "#PWR0277"
 			(at 393.7 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -32257,7 +31972,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0225")
+					(reference "#PWR0277")
 					(unit 1)
 				)
 			)
@@ -32274,7 +31989,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "60ea435e-34d0-4175-90dc-c14c402280fa")
-		(property "Reference" "#PWR0216"
+		(property "Reference" "#PWR0269"
 			(at 251.46 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -32334,7 +32049,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0216")
+					(reference "#PWR0269")
 					(unit 1)
 				)
 			)
@@ -32351,7 +32066,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6251377d-d9b8-4244-a7a5-f272c1062fc9")
-		(property "Reference" "#PWR091"
+		(property "Reference" "#PWR0145"
 			(at 128.27 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -32411,7 +32126,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR091")
+					(reference "#PWR0145")
 					(unit 1)
 				)
 			)
@@ -32428,7 +32143,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "626d6770-8d49-43cc-8633-fe70d5b544b1")
-		(property "Reference" "#PWR0178"
+		(property "Reference" "#PWR0231"
 			(at 534.67 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -32488,7 +32203,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0178")
+					(reference "#PWR0231")
 					(unit 1)
 				)
 			)
@@ -32608,7 +32323,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "640e7a42-87eb-4e5d-a8f3-6b430fe4be52")
-		(property "Reference" "#PWR0172"
+		(property "Reference" "#PWR0225"
 			(at 243.84 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -32668,7 +32383,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0172")
+					(reference "#PWR0225")
 					(unit 1)
 				)
 			)
@@ -32685,7 +32400,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "644b0419-9aa4-46fa-a6ed-e06f08171c5d")
-		(property "Reference" "Cx81"
+		(property "Reference" "Cx80"
 			(at 436.118 170.688 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32771,7 +32486,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx81")
+					(reference "Cx80")
 					(unit 1)
 				)
 			)
@@ -32912,7 +32627,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 445.77 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -33112,7 +32827,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "649bcd81-4528-4a7d-ae9f-b20aa86b6af8")
-		(property "Reference" "Cy65"
+		(property "Reference" "Cy64"
 			(at 169.926 147.574 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -33198,7 +32913,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy65")
+					(reference "Cy64")
 					(unit 1)
 				)
 			)
@@ -33215,7 +32930,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "64ba8505-38ff-404e-9f54-c1b8085b20e4")
-		(property "Reference" "#PWR0151"
+		(property "Reference" "#PWR0205"
 			(at 433.07 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -33275,7 +32990,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0151")
+					(reference "#PWR0205")
 					(unit 1)
 				)
 			)
@@ -33498,7 +33213,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "651289d6-a497-4ea0-b6b2-1522f514e92e")
-		(property "Reference" "#PWR0108"
+		(property "Reference" "#PWR0162"
 			(at 147.32 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -33558,7 +33273,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0108")
+					(reference "#PWR0162")
 					(unit 1)
 				)
 			)
@@ -33575,7 +33290,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "65cbe858-0f7a-4444-bc05-cae6db668bc2")
-		(property "Reference" "#PWR0176"
+		(property "Reference" "#PWR0229"
 			(at 370.84 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -33635,7 +33350,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0176")
+					(reference "#PWR0229")
 					(unit 1)
 				)
 			)
@@ -33652,7 +33367,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6645e601-8008-4a33-9c07-264b39c884b5")
-		(property "Reference" "#PWR0157"
+		(property "Reference" "#PWR0211"
 			(at 223.52 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -33712,7 +33427,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0157")
+					(reference "#PWR0211")
 					(unit 1)
 				)
 			)
@@ -33729,7 +33444,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "66d8eeff-d9fa-43ed-a67a-8e6340b2b487")
-		(property "Reference" "#PWR0205"
+		(property "Reference" "#PWR0257"
 			(at 66.04 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -33789,7 +33504,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0205")
+					(reference "#PWR0257")
 					(unit 1)
 				)
 			)
@@ -34012,7 +33727,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "689003b6-4d62-4e48-bf18-975450eea3e6")
-		(property "Reference" "#PWR0191"
+		(property "Reference" "#PWR0243"
 			(at 445.77 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -34072,7 +33787,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0191")
+					(reference "#PWR0243")
 					(unit 1)
 				)
 			)
@@ -34089,7 +33804,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "68ba428a-690d-4471-b522-5a4467e6bfe3")
-		(property "Reference" "#PWR0233"
+		(property "Reference" "#PWR0285"
 			(at 104.14 300.99 0)
 			(hide yes)
 			(show_name no)
@@ -34149,7 +33864,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0233")
+					(reference "#PWR0285")
 					(unit 1)
 				)
 			)
@@ -34187,7 +33902,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 96.52 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -34284,7 +33999,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6a1fac52-f366-4191-bb9d-d0c1df8e7cef")
-		(property "Reference" "Cx80"
+		(property "Reference" "Cx79"
 			(at 404.368 170.688 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34370,7 +34085,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx80")
+					(reference "Cx79")
 					(unit 1)
 				)
 			)
@@ -34490,7 +34205,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6aa96c0b-7758-46a7-b5b8-4f633a088afc")
-		(property "Reference" "#PWR096"
+		(property "Reference" "#PWR0150"
 			(at 287.02 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -34550,7 +34265,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR096")
+					(reference "#PWR0150")
 					(unit 1)
 				)
 			)
@@ -34567,7 +34282,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6ad39af1-fb2a-4de9-87a6-da072fc3c4a5")
-		(property "Reference" "#PWR0204"
+		(property "Reference" "#PWR0256"
 			(at 34.29 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -34627,7 +34342,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0204")
+					(reference "#PWR0256")
 					(unit 1)
 				)
 			)
@@ -34665,7 +34380,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 128.27 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -34762,7 +34477,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6bafc1bc-e247-4c6d-91c3-72a2089d26d1")
-		(property "Reference" "#PWR0124"
+		(property "Reference" "#PWR0178"
 			(at 128.27 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -34822,7 +34537,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0124")
+					(reference "#PWR0178")
 					(unit 1)
 				)
 			)
@@ -34963,7 +34678,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 96.52 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -35163,7 +34878,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6c8ce836-25bf-4594-b638-3f785938bc39")
-		(property "Reference" "#PWR0129"
+		(property "Reference" "#PWR0183"
 			(at 287.02 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -35223,7 +34938,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0129")
+					(reference "#PWR0183")
 					(unit 1)
 				)
 			)
@@ -35343,7 +35058,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6f139a21-3b28-49de-b40b-d9c50dd56727")
-		(property "Reference" "Cx63"
+		(property "Reference" "Cx62"
 			(at 85.598 147.828 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35429,7 +35144,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx63")
+					(reference "Cx62")
 					(unit 1)
 				)
 			)
@@ -35550,7 +35265,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "707bcefe-cee6-414c-a4ac-a55c83c68f52")
-		(property "Reference" "HE71"
+		(property "Reference" "HE70"
 			(at 351.79 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35570,7 +35285,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 351.79 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -35650,7 +35365,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE71")
+					(reference "HE70")
 					(unit 1)
 				)
 			)
@@ -35770,7 +35485,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "718d779c-52e8-4bff-816e-67d8aae72847")
-		(property "Reference" "#PWR0175"
+		(property "Reference" "#PWR0228"
 			(at 339.09 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -35830,7 +35545,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0175")
+					(reference "#PWR0228")
 					(unit 1)
 				)
 			)
@@ -35847,7 +35562,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "71f91ffd-1eaa-44ef-aea7-d50251216a63")
-		(property "Reference" "#PWR0199"
+		(property "Reference" "#PWR0251"
 			(at 435.61 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -35907,7 +35622,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0199")
+					(reference "#PWR0251")
 					(unit 1)
 				)
 			)
@@ -35925,7 +35640,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72211228-a6f6-4865-97ec-5ae600e98517")
-		(property "Reference" "C19"
+		(property "Reference" "C39"
 			(at 111.76 229.8763 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -35989,7 +35704,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "C19")
+					(reference "C39")
 					(unit 1)
 				)
 			)
@@ -36006,7 +35721,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7249a9bf-b089-48c6-897b-328f7f14868c")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR0104"
 			(at 224.79 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -36066,7 +35781,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR050")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -36104,7 +35819,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 223.52 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -36201,7 +35916,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "73bfd21c-80f8-4648-83de-6bee875a6c1a")
-		(property "Reference" "Cx70"
+		(property "Reference" "Cx69"
 			(at 307.848 147.828 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36287,7 +36002,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx70")
+					(reference "Cx69")
 					(unit 1)
 				)
 			)
@@ -36510,7 +36225,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "760a30b6-8bac-456c-99a9-b0ffadb7cf93")
-		(property "Reference" "#PWR0132"
+		(property "Reference" "#PWR0186"
 			(at 382.27 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -36570,7 +36285,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0132")
+					(reference "#PWR0186")
 					(unit 1)
 				)
 			)
@@ -36690,7 +36405,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "771ce24a-fd8a-4a55-83ea-8b2c694be9ad")
-		(property "Reference" "#PWR0144"
+		(property "Reference" "#PWR0198"
 			(at 210.82 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -36750,7 +36465,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0144")
+					(reference "#PWR0198")
 					(unit 1)
 				)
 			)
@@ -36767,7 +36482,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7896e813-3c59-48e1-a051-a38f2580b52a")
-		(property "Reference" "#PWR0123"
+		(property "Reference" "#PWR0177"
 			(at 96.52 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -36827,7 +36542,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0123")
+					(reference "#PWR0177")
 					(unit 1)
 				)
 			)
@@ -37050,7 +36765,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "793512a1-92a4-4797-8e66-a39519a3ec15")
-		(property "Reference" "Cx71"
+		(property "Reference" "Cx70"
 			(at 339.598 147.828 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37136,7 +36851,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx71")
+					(reference "Cx70")
 					(unit 1)
 				)
 			)
@@ -37153,7 +36868,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "79984c53-0fca-4a9b-a292-22718b120456")
-		(property "Reference" "#PWR0116"
+		(property "Reference" "#PWR0170"
 			(at 401.32 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -37213,7 +36928,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0116")
+					(reference "#PWR0170")
 					(unit 1)
 				)
 			)
@@ -37251,7 +36966,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 546.1 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -37348,7 +37063,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7b12e63c-4416-4ac8-b2d0-201654968b5a")
-		(property "Reference" "#PWR0221"
+		(property "Reference" "#PWR0273"
 			(at 109.22 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -37408,7 +37123,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0221")
+					(reference "#PWR0273")
 					(unit 1)
 				)
 			)
@@ -37528,7 +37243,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7b79dd78-899d-4139-a81c-1c4230f194fb")
-		(property "Reference" "#PWR0115"
+		(property "Reference" "#PWR0169"
 			(at 369.57 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -37588,7 +37303,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0115")
+					(reference "#PWR0169")
 					(unit 1)
 				)
 			)
@@ -37605,7 +37320,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7bb0a80e-bd5f-40dd-9263-a75ced4261cb")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR0124"
 			(at 478.79 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -37665,7 +37380,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR070")
+					(reference "#PWR0124")
 					(unit 1)
 				)
 			)
@@ -37785,7 +37500,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7daa001a-2cb1-43af-9283-16ec6d6f9b97")
-		(property "Reference" "Cx75"
+		(property "Reference" "Cx74"
 			(at 22.098 170.688 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37871,7 +37586,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx75")
+					(reference "Cx74")
 					(unit 1)
 				)
 			)
@@ -37909,7 +37624,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 577.85 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -38006,7 +37721,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7f63e635-dfb8-4b20-acb9-9c2988cf160b")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR0106"
 			(at 288.29 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -38066,7 +37781,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR052")
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -38083,7 +37798,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "801e4c4b-8721-4115-9966-acf211139b3d")
-		(property "Reference" "#PWR0136"
+		(property "Reference" "#PWR0190"
 			(at 514.35 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -38143,7 +37858,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0136")
+					(reference "#PWR0190")
 					(unit 1)
 				)
 			)
@@ -38160,7 +37875,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "819e9c3e-73fb-4fd9-9ec4-c707f53bda79")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR0118"
 			(at 269.24 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -38220,7 +37935,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR064")
+					(reference "#PWR0118")
 					(unit 1)
 				)
 			)
@@ -38238,7 +37953,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "81c00594-7802-4bd3-a16d-3ebc7f92f36d")
-		(property "Reference" "HE82"
+		(property "Reference" "HE81"
 			(at 480.06 161.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38258,7 +37973,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1.25u"
 			(at 480.06 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -38338,7 +38053,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE82")
+					(reference "HE81")
 					(unit 1)
 				)
 			)
@@ -38355,7 +38070,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "81ce2625-19b9-407e-8e00-0fac6cc09014")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR0119"
 			(at 300.99 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -38415,7 +38130,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR065")
+					(reference "#PWR0119")
 					(unit 1)
 				)
 			)
@@ -38433,7 +38148,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82c5e1dc-f126-46ee-be7f-3e4dd3329355")
-		(property "Reference" "C20"
+		(property "Reference" "C40"
 			(at 187.96 229.8763 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -38497,7 +38212,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "C20")
+					(reference "C40")
 					(unit 1)
 				)
 			)
@@ -38514,7 +38229,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "82c8c6eb-b711-473e-b009-9d043a48546f")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR0129"
 			(at 147.32 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -38574,7 +38289,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR075")
+					(reference "#PWR0129")
 					(unit 1)
 				)
 			)
@@ -38591,7 +38306,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8316f7e5-9c1f-4201-926a-cc65db97312f")
-		(property "Reference" "#PWR0231"
+		(property "Reference" "#PWR0283"
 			(at 369.57 283.21 0)
 			(hide yes)
 			(show_name no)
@@ -38651,7 +38366,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0231")
+					(reference "#PWR0283")
 					(unit 1)
 				)
 			)
@@ -38668,7 +38383,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8428a87f-2123-4fac-abd7-0433c5023763")
-		(property "Reference" "#PWR095"
+		(property "Reference" "#PWR0149"
 			(at 255.27 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -38728,7 +38443,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR095")
+					(reference "#PWR0149")
 					(unit 1)
 				)
 			)
@@ -38745,7 +38460,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "858637f2-71c9-4c2d-847d-b895dba7caf9")
-		(property "Reference" "#PWR0226"
+		(property "Reference" "#PWR0278"
 			(at 459.74 241.3 0)
 			(hide yes)
 			(show_name no)
@@ -38805,7 +38520,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0226")
+					(reference "#PWR0278")
 					(unit 1)
 				)
 			)
@@ -38925,7 +38640,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "860172f8-b96b-4ce2-b1b3-f43d3355282c")
-		(property "Reference" "#PWR0212"
+		(property "Reference" "#PWR0264"
 			(at 515.62 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -38985,7 +38700,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0212")
+					(reference "#PWR0264")
 					(unit 1)
 				)
 			)
@@ -39003,7 +38718,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "866660ab-04a0-4cb5-99b9-9cf5e1273bf0")
-		(property "Reference" "HE64"
+		(property "Reference" "HE63"
 			(at 129.54 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39023,7 +38738,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 129.54 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -39103,7 +38818,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE64")
+					(reference "HE63")
 					(unit 1)
 				)
 			)
@@ -39121,7 +38836,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86d9ec9b-b076-4a1e-8cc1-a2f7250d58e4")
-		(property "Reference" "HE72"
+		(property "Reference" "HE71"
 			(at 383.54 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39141,7 +38856,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 383.54 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -39221,7 +38936,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE72")
+					(reference "HE71")
 					(unit 1)
 				)
 			)
@@ -39239,7 +38954,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86f5b08e-f11f-46dd-893c-29339236187c")
-		(property "Reference" "U8"
+		(property "Reference" "U13"
 			(at 390.8777 241.3 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39370,7 +39085,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "U8")
+					(reference "U13")
 					(unit 1)
 				)
 			)
@@ -39387,7 +39102,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "872c1a79-befb-4a9d-ae3f-5cf94c7063b7")
-		(property "Reference" "#PWR0113"
+		(property "Reference" "#PWR0167"
 			(at 306.07 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -39447,7 +39162,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0113")
+					(reference "#PWR0167")
 					(unit 1)
 				)
 			)
@@ -39464,7 +39179,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8845e109-1db6-429e-986e-5852e209e819")
-		(property "Reference" "#PWR094"
+		(property "Reference" "#PWR0148"
 			(at 223.52 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -39524,7 +39239,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR094")
+					(reference "#PWR0148")
 					(unit 1)
 				)
 			)
@@ -39541,7 +39256,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "88b13a2f-0e4f-437b-845b-1efadcc5ce17")
-		(property "Reference" "#PWR0119"
+		(property "Reference" "#PWR0173"
 			(at 501.65 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -39601,7 +39316,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0119")
+					(reference "#PWR0173")
 					(unit 1)
 				)
 			)
@@ -39721,7 +39436,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "896318c7-e44d-4e3c-bbbf-252f1f61f2fc")
-		(property "Reference" "#PWR0134"
+		(property "Reference" "#PWR0188"
 			(at 445.77 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -39781,7 +39496,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0134")
+					(reference "#PWR0188")
 					(unit 1)
 				)
 			)
@@ -39798,7 +39513,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "899ede7f-2c3e-4f2c-97f5-33b922d6576e")
-		(property "Reference" "#PWR0206"
+		(property "Reference" "#PWR0258"
 			(at 97.79 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -39858,7 +39573,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0206")
+					(reference "#PWR0258")
 					(unit 1)
 				)
 			)
@@ -39999,7 +39714,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 33.02 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -40302,7 +40017,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8c8a863e-66c8-4c73-a0c4-5e23d5e3c83d")
-		(property "Reference" "Cy82"
+		(property "Reference" "Cy81"
 			(at 488.696 170.434 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40388,7 +40103,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy82")
+					(reference "Cy81")
 					(unit 1)
 				)
 			)
@@ -40405,7 +40120,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8c9fae53-394c-438d-ab6a-ef23680b5895")
-		(property "Reference" "#PWR0217"
+		(property "Reference" "#PWR0270"
 			(at 325.12 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -40465,7 +40180,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0217")
+					(reference "#PWR0270")
 					(unit 1)
 				)
 			)
@@ -40585,7 +40300,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8de8693f-35c5-40a3-9745-5d0f9db1aa6d")
-		(property "Reference" "#PWR0179"
+		(property "Reference" "#PWR0232"
 			(at 34.29 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -40645,7 +40360,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0179")
+					(reference "#PWR0232")
 					(unit 1)
 				)
 			)
@@ -40662,7 +40377,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8e95f361-5cb3-40cc-ade8-f334f4d019f7")
-		(property "Reference" "#PWR097"
+		(property "Reference" "#PWR0151"
 			(at 318.77 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -40722,7 +40437,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR097")
+					(reference "#PWR0151")
 					(unit 1)
 				)
 			)
@@ -40863,7 +40578,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 318.77 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -40960,7 +40675,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9000aea9-2023-4b7f-9c58-50f022e475a6")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR0136"
 			(at 369.57 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -41020,7 +40735,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR082")
+					(reference "#PWR0136")
 					(unit 1)
 				)
 			)
@@ -41038,7 +40753,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "90066627-851c-4e0f-b2e9-ff06a99aab61")
-		(property "Reference" "HE74"
+		(property "Reference" "HE73"
 			(at 547.37 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41058,7 +40773,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 547.37 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -41138,7 +40853,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE74")
+					(reference "HE73")
 					(unit 1)
 				)
 			)
@@ -41258,7 +40973,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9096bced-0ef3-4595-9531-13aa763d16c9")
-		(property "Reference" "#PWR0210"
+		(property "Reference" "#PWR0262"
 			(at 448.31 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -41318,7 +41033,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0210")
+					(reference "#PWR0262")
 					(unit 1)
 				)
 			)
@@ -41336,7 +41051,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "90b656c7-0a36-4223-977f-6d52b48f8223")
-		(property "Reference" "HE69"
+		(property "Reference" "HE68"
 			(at 288.29 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41356,7 +41071,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 288.29 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -41436,7 +41151,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE69")
+					(reference "HE68")
 					(unit 1)
 				)
 			)
@@ -41474,7 +41189,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 350.52 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -41571,7 +41286,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9195bd11-9938-4629-b86b-68dac7de7794")
-		(property "Reference" "#PWR0237"
+		(property "Reference" "#PWR0289"
 			(at 388.62 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -41631,7 +41346,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0237")
+					(reference "#PWR0289")
 					(unit 1)
 				)
 			)
@@ -41854,7 +41569,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "923187e6-f09c-42c6-adec-8818a49d0ad4")
-		(property "Reference" "#PWR0133"
+		(property "Reference" "#PWR0187"
 			(at 414.02 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -41914,7 +41629,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0133")
+					(reference "#PWR0187")
 					(unit 1)
 				)
 			)
@@ -41931,7 +41646,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "925ca5b5-b786-468d-a664-f56ee1da3412")
-		(property "Reference" "#PWR0163"
+		(property "Reference" "#PWR0217"
 			(at 414.02 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -41991,7 +41706,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0163")
+					(reference "#PWR0217")
 					(unit 1)
 				)
 			)
@@ -42029,7 +41744,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 129.54 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -42126,7 +41841,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "92a41690-354e-4c44-8c61-1aa41d81e452")
-		(property "Reference" "Cx76"
+		(property "Reference" "Cx75"
 			(at 53.848 170.688 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42212,7 +41927,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx76")
+					(reference "Cx75")
 					(unit 1)
 				)
 			)
@@ -42323,7 +42038,7 @@
 	)
 	(symbol
 		(lib_id "marbastlib-mx.kicad_sym:MX_stab")
-		(at 477.52 111.76 0)
+		(at 469.9 124.46 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -42333,7 +42048,7 @@
 		(dnp yes)
 		(uuid "92dccac3-f658-4ccc-9078-1480e1057cfd")
 		(property "Reference" "S2"
-			(at 476.504 112.014 0)
+			(at 468.884 124.714 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -42344,7 +42059,7 @@
 			)
 		)
 		(property "Value" "MX_stab"
-			(at 475.742 115.824 0)
+			(at 468.122 128.524 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -42354,8 +42069,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "lib:STAB_MX_ISO"
-			(at 477.52 111.76 0)
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2.25u"
+			(at 469.9 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42366,7 +42081,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 477.52 111.76 0)
+			(at 469.9 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42377,7 +42092,7 @@
 			)
 		)
 		(property "Description" "Cherry MX-style stabilizer"
-			(at 477.52 111.76 0)
+			(at 469.9 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42388,7 +42103,7 @@
 			)
 		)
 		(property "Sim.Device" ""
-			(at 477.52 111.76 0)
+			(at 469.9 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42399,7 +42114,7 @@
 			)
 		)
 		(property "Sim.Pins" ""
-			(at 477.52 111.76 0)
+			(at 469.9 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42429,7 +42144,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "92fed636-ebe8-4ab0-b290-566de6ed04e6")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR0121"
 			(at 383.54 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -42489,7 +42204,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR067")
+					(reference "#PWR0121")
 					(unit 1)
 				)
 			)
@@ -42609,7 +42324,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9390601e-4c38-473b-ae4a-feeb97b22a66")
-		(property "Reference" "Cy75"
+		(property "Reference" "Cy74"
 			(at 42.926 170.434 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42695,7 +42410,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy75")
+					(reference "Cy74")
 					(unit 1)
 				)
 			)
@@ -42733,7 +42448,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 514.35 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -42933,7 +42648,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "94626f5e-17ae-460c-8cff-4784543923b8")
-		(property "Reference" "Cy78"
+		(property "Reference" "Cy77"
 			(at 233.426 170.434 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43019,7 +42734,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy78")
+					(reference "Cy77")
 					(unit 1)
 				)
 			)
@@ -43160,7 +42875,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 34.29 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -43360,7 +43075,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "97c19791-8d7f-41fa-80d8-626d11bcd736")
-		(property "Reference" "#PWR0196"
+		(property "Reference" "#PWR0248"
 			(at 212.09 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -43420,7 +43135,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0196")
+					(reference "#PWR0248")
 					(unit 1)
 				)
 			)
@@ -43458,7 +43173,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 462.28 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -43555,7 +43270,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "989bf0bc-a1ad-4b42-91e3-ca78bfb80371")
-		(property "Reference" "#PWR0105"
+		(property "Reference" "#PWR0159"
 			(at 36.83 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -43615,7 +43330,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0105")
+					(reference "#PWR0159")
 					(unit 1)
 				)
 			)
@@ -43633,7 +43348,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98b7c4f6-c412-45de-914f-89237a50fe33")
-		(property "Reference" "HE81"
+		(property "Reference" "HE80"
 			(at 448.31 161.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43653,7 +43368,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1.25u"
 			(at 448.31 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -43733,7 +43448,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE81")
+					(reference "HE80")
 					(unit 1)
 				)
 			)
@@ -43853,7 +43568,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9900f4f7-b575-4fd9-a729-9ddf802c4505")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR0126"
 			(at 52.07 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -43913,7 +43628,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR072")
+					(reference "#PWR0126")
 					(unit 1)
 				)
 			)
@@ -44054,7 +43769,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 255.27 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -44378,7 +44093,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 64.77 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -44475,7 +44190,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9c3e02d5-5cf2-423b-ad13-41e7619bbc34")
-		(property "Reference" "#PWR0238"
+		(property "Reference" "#PWR0290"
 			(at 454.66 302.26 0)
 			(hide yes)
 			(show_name no)
@@ -44535,7 +44250,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0238")
+					(reference "#PWR0290")
 					(unit 1)
 				)
 			)
@@ -44553,7 +44268,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c70c26e-2604-4928-a3a4-c7405bc82602")
-		(property "Reference" "C23"
+		(property "Reference" "C43"
 			(at 396.24 231.1463 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44617,7 +44332,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "C23")
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -44634,7 +44349,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9c9b85d4-41a8-46c0-9630-39a571732d02")
-		(property "Reference" "#PWR0100"
+		(property "Reference" "#PWR0154"
 			(at 414.02 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -44694,7 +44409,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0100")
+					(reference "#PWR0154")
 					(unit 1)
 				)
 			)
@@ -44732,7 +44447,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 577.85 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -44953,7 +44668,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 414.02 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -45050,7 +44765,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9e0cd234-da06-4bf3-8915-aa0b11151628")
-		(property "Reference" "#PWR0148"
+		(property "Reference" "#PWR0202"
 			(at 337.82 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -45110,7 +44825,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0148")
+					(reference "#PWR0202")
 					(unit 1)
 				)
 			)
@@ -45127,7 +44842,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9e67f943-e5d3-45b6-af5d-e3626fe8a462")
-		(property "Reference" "#PWR0118"
+		(property "Reference" "#PWR0172"
 			(at 464.82 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -45187,7 +44902,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0118")
+					(reference "#PWR0172")
 					(unit 1)
 				)
 			)
@@ -45225,7 +44940,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 160.02 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -45322,7 +45037,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a0beeb6d-0fe0-4567-9cfd-89e9a7ffdbc9")
-		(property "Reference" "#PWR0235"
+		(property "Reference" "#PWR0287"
 			(at 251.46 300.99 0)
 			(hide yes)
 			(show_name no)
@@ -45382,7 +45097,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0235")
+					(reference "#PWR0287")
 					(unit 1)
 				)
 			)
@@ -45502,7 +45217,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a2ba2523-96a6-49b9-b207-3c29eb7736b8")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR0128"
 			(at 115.57 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -45562,7 +45277,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR074")
+					(reference "#PWR0128")
 					(unit 1)
 				)
 			)
@@ -45579,7 +45294,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a2e3d030-59f8-4b33-bfd7-4a386a6cd057")
-		(property "Reference" "#PWR0197"
+		(property "Reference" "#PWR0249"
 			(at 372.11 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -45639,7 +45354,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0197")
+					(reference "#PWR0249")
 					(unit 1)
 				)
 			)
@@ -45759,7 +45474,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a36e6f5a-8c31-4b6d-b06a-e7dbe1c5b0d6")
-		(property "Reference" "Cy66"
+		(property "Reference" "Cy65"
 			(at 201.676 147.574 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45845,7 +45560,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy66")
+					(reference "Cy65")
 					(unit 1)
 				)
 			)
@@ -45862,7 +45577,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a3fa7f15-e920-4624-a082-b0f4d4b72b28")
-		(property "Reference" "Cy64"
+		(property "Reference" "Cy63"
 			(at 138.176 147.574 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45948,7 +45663,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy64")
+					(reference "Cy63")
 					(unit 1)
 				)
 			)
@@ -45965,7 +45680,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a40d11d4-ce8c-42a2-8abf-8bbbae4bdb40")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR0130"
 			(at 179.07 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -46025,7 +45740,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR076")
+					(reference "#PWR0130")
 					(unit 1)
 				)
 			)
@@ -46145,7 +45860,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a4fe1f4e-c8f9-4f05-84fb-5baf9f7a6c07")
-		(property "Reference" "Cx82"
+		(property "Reference" "Cx81"
 			(at 467.868 170.688 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46231,7 +45946,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx82")
+					(reference "Cx81")
 					(unit 1)
 				)
 			)
@@ -46351,7 +46066,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a51a85c4-c92f-4135-8c74-5c6929bbcd46")
-		(property "Reference" "#PWR0234"
+		(property "Reference" "#PWR0286"
 			(at 180.34 300.99 0)
 			(hide yes)
 			(show_name no)
@@ -46411,7 +46126,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0234")
+					(reference "#PWR0286")
 					(unit 1)
 				)
 			)
@@ -46531,7 +46246,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a6a1f22f-beca-4161-b714-e80b3d897db4")
-		(property "Reference" "Cx74"
+		(property "Reference" "Cx73"
 			(at 535.178 147.828 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46617,7 +46332,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx74")
+					(reference "Cx73")
 					(unit 1)
 				)
 			)
@@ -46634,7 +46349,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a71c0a00-5d22-4360-ae18-79dbdfa729e5")
-		(property "Reference" "#PWR0222"
+		(property "Reference" "#PWR0274"
 			(at 185.42 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -46694,7 +46409,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0222")
+					(reference "#PWR0274")
 					(unit 1)
 				)
 			)
@@ -46711,7 +46426,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a80b9649-d259-427d-a535-7b7a0ffb1123")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR0133"
 			(at 274.32 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -46771,7 +46486,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR079")
+					(reference "#PWR0133")
 					(unit 1)
 				)
 			)
@@ -46788,7 +46503,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a8eae6f1-692f-45fc-b2bb-feeb41ce0c31")
-		(property "Reference" "#PWR0149"
+		(property "Reference" "#PWR0203"
 			(at 369.57 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -46848,7 +46563,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0149")
+					(reference "#PWR0203")
 					(unit 1)
 				)
 			)
@@ -47071,7 +46786,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aa22dffa-aaa4-429d-9d70-5bad7b4a7ced")
-		(property "Reference" "#PWR0203"
+		(property "Reference" "#PWR0255"
 			(at 566.42 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -47131,7 +46846,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0203")
+					(reference "#PWR0255")
 					(unit 1)
 				)
 			)
@@ -47148,7 +46863,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aaced92b-1ddf-46f2-acdf-8ea5c025dc66")
-		(property "Reference" "#PWR0461"
+		(property "Reference" "#PWR0267"
 			(at 104.14 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -47208,7 +46923,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0461")
+					(reference "#PWR0267")
 					(unit 1)
 				)
 			)
@@ -47246,7 +46961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1.75u"
 			(at 49.53 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -47333,83 +47048,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3VA")
-		(at 53.34 143.51 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ac3a1588-d6ce-455a-b4c8-965693138abd")
-		(property "Reference" "#PWR0166"
-			(at 53.34 147.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+3.3VA"
-			(at 53.34 139.446 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 53.34 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 53.34 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3.3VA\""
-			(at 53.34 143.51 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5c3ac1da-8767-488b-b590-33b12ce67222")
-		)
-		(instances
-			(project "75all% H-Effect Gaming Keyboard"
-				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0166")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 33.02 85.09 0)
 		(unit 1)
@@ -47420,7 +47058,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ac43efb1-588d-4264-aa99-35edc59129e8")
-		(property "Reference" "#PWR088"
+		(property "Reference" "#PWR0142"
 			(at 33.02 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -47480,7 +47118,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR088")
+					(reference "#PWR0142")
 					(unit 1)
 				)
 			)
@@ -47497,7 +47135,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "acd51859-2624-472f-8b3f-4221009083fa")
-		(property "Reference" "Cx67"
+		(property "Reference" "Cx66"
 			(at 212.598 147.828 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47583,7 +47221,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx67")
+					(reference "Cx66")
 					(unit 1)
 				)
 			)
@@ -47623,7 +47261,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "lib:STAB_MX_P_2.75u"
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2.25u"
 			(at 472.44 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -47698,7 +47336,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "af00c88e-d7e3-4c36-b97e-91be0c3645be")
-		(property "Reference" "#PWR0186"
+		(property "Reference" "#PWR0238"
 			(at 256.54 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -47758,7 +47396,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0186")
+					(reference "#PWR0238")
 					(unit 1)
 				)
 			)
@@ -47776,7 +47414,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af937509-0443-4bc6-9524-520b6daba9f3")
-		(property "Reference" "HE84"
+		(property "Reference" "HE83"
 			(at 547.37 161.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47796,7 +47434,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 547.37 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -47876,7 +47514,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE84")
+					(reference "HE83")
 					(unit 1)
 				)
 			)
@@ -47893,7 +47531,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "afcf68d1-f859-444d-81f7-3133b1383ca0")
-		(property "Reference" "#PWR099"
+		(property "Reference" "#PWR0153"
 			(at 382.27 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -47953,7 +47591,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR099")
+					(reference "#PWR0153")
 					(unit 1)
 				)
 			)
@@ -47970,7 +47608,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b0b0fe23-e76d-4c00-924a-331ff3fe6077")
-		(property "Reference" "#PWR0168"
+		(property "Reference" "#PWR0221"
 			(at 116.84 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -48030,7 +47668,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0168")
+					(reference "#PWR0221")
 					(unit 1)
 				)
 			)
@@ -48048,7 +47686,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b0c400e5-04ae-4ff8-a56b-9956faaac14c")
-		(property "Reference" "HE65"
+		(property "Reference" "HE64"
 			(at 161.29 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48068,7 +47706,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 161.29 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -48148,7 +47786,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE65")
+					(reference "HE64")
 					(unit 1)
 				)
 			)
@@ -48165,7 +47803,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b10f9d0f-565f-4056-9b5e-8fd99eb7b4df")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR0123"
 			(at 447.04 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -48225,7 +47863,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR069")
+					(reference "#PWR0123")
 					(unit 1)
 				)
 			)
@@ -48242,7 +47880,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b1ef38eb-a286-40c7-afb0-384ba824aaff")
-		(property "Reference" "#PWR0228"
+		(property "Reference" "#PWR0280"
 			(at 161.29 281.94 0)
 			(hide yes)
 			(show_name no)
@@ -48302,7 +47940,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0228")
+					(reference "#PWR0280")
 					(unit 1)
 				)
 			)
@@ -48340,7 +47978,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 383.54 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -48540,7 +48178,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b67fe385-422e-408c-a41d-91c9742dbdb8")
-		(property "Reference" "Cy84"
+		(property "Reference" "Cy83"
 			(at 556.006 170.434 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48626,7 +48264,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy84")
+					(reference "Cy83")
 					(unit 1)
 				)
 			)
@@ -48664,7 +48302,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 128.27 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -48762,7 +48400,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8d37afe-511b-47eb-8c5e-7d593a78eef4")
-		(property "Reference" "HE83"
+		(property "Reference" "HE82"
 			(at 515.62 161.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48782,7 +48420,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 515.62 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -48862,7 +48500,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE83")
+					(reference "HE82")
 					(unit 1)
 				)
 			)
@@ -48879,7 +48517,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b9e4f72e-bdeb-419e-b7e0-c57012a7cf0a")
-		(property "Reference" "#PWR0145"
+		(property "Reference" "#PWR0199"
 			(at 242.57 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -48939,7 +48577,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0145")
+					(reference "#PWR0199")
 					(unit 1)
 				)
 			)
@@ -48977,7 +48615,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 445.77 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -49074,7 +48712,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ba5d315a-b3da-4a4e-82b6-ddd2c78382ac")
-		(property "Reference" "Cy67"
+		(property "Reference" "Cy66"
 			(at 233.426 147.574 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49160,7 +48798,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy67")
+					(reference "Cy66")
 					(unit 1)
 				)
 			)
@@ -49177,7 +48815,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bc01cddd-8df3-4fad-bccd-22ee363576cc")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR0157"
 			(at 546.1 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -49237,7 +48875,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0103")
+					(reference "#PWR0157")
 					(unit 1)
 				)
 			)
@@ -49254,7 +48892,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bcdc6f75-ecb5-4172-9316-f6556e99ed59")
-		(property "Reference" "#PWR0183"
+		(property "Reference" "#PWR0235"
 			(at 161.29 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -49314,7 +48952,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0183")
+					(reference "#PWR0235")
 					(unit 1)
 				)
 			)
@@ -49331,7 +48969,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bd6462e3-1a40-485c-8114-04458fd45ff7")
-		(property "Reference" "Cx84"
+		(property "Reference" "Cx83"
 			(at 535.178 170.688 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49417,7 +49055,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx84")
+					(reference "Cx83")
 					(unit 1)
 				)
 			)
@@ -49846,7 +49484,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bf1111f7-4cff-4773-b083-347f9d36c347")
-		(property "Reference" "Cy76"
+		(property "Reference" "Cy75"
 			(at 74.676 170.434 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49932,7 +49570,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy76")
+					(reference "Cy75")
 					(unit 1)
 				)
 			)
@@ -50073,7 +49711,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 546.1 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -50170,7 +49808,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c105fe01-4ca5-4ed8-b5f8-25351752958f")
-		(property "Reference" "#PWR0152"
+		(property "Reference" "#PWR0206"
 			(at 49.53 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -50230,7 +49868,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0152")
+					(reference "#PWR0206")
 					(unit 1)
 				)
 			)
@@ -50371,7 +50009,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 33.02 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -50674,7 +50312,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c4032cd8-8a5e-4e28-af03-d1f6d8a6a74c")
-		(property "Reference" "#PWR0190"
+		(property "Reference" "#PWR0242"
 			(at 383.54 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -50734,7 +50372,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0190")
+					(reference "#PWR0242")
 					(unit 1)
 				)
 			)
@@ -50751,7 +50389,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c4efac6d-db1f-4f5b-b08e-812528823ed8")
-		(property "Reference" "#PWR0120"
+		(property "Reference" "#PWR0174"
 			(at 533.4 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -50811,7 +50449,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0120")
+					(reference "#PWR0174")
 					(unit 1)
 				)
 			)
@@ -50828,7 +50466,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c536d90b-e081-4c11-b558-9054ee899552")
-		(property "Reference" "Cx69"
+		(property "Reference" "Cx68"
 			(at 276.098 147.828 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50914,7 +50552,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx69")
+					(reference "Cx68")
 					(unit 1)
 				)
 			)
@@ -50931,7 +50569,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c5ad7bdb-322d-45d9-b218-06c4fe3031de")
-		(property "Reference" "Cy73"
+		(property "Reference" "Cy72"
 			(at 454.406 147.574 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51017,7 +50655,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy73")
+					(reference "Cy72")
 					(unit 1)
 				)
 			)
@@ -51158,7 +50796,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 128.27 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -51255,7 +50893,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c7994995-9bf4-450d-94c5-995f34e0883a")
-		(property "Reference" "#PWR084"
+		(property "Reference" "#PWR0138"
 			(at 449.58 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -51315,7 +50953,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR084")
+					(reference "#PWR0138")
 					(unit 1)
 				)
 			)
@@ -51436,7 +51074,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9380ba6-61c9-4883-b3a1-0a374b24d1e8")
-		(property "Reference" "HE70"
+		(property "Reference" "HE69"
 			(at 320.04 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51456,7 +51094,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 320.04 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -51536,7 +51174,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE70")
+					(reference "HE69")
 					(unit 1)
 				)
 			)
@@ -51574,7 +51212,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 300.99 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -51692,7 +51330,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 414.02 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -51810,7 +51448,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 191.77 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -51907,7 +51545,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "caf03102-b438-47f5-872d-02f2a385bef2")
-		(property "Reference" "Cx83"
+		(property "Reference" "Cx82"
 			(at 503.428 170.688 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51993,7 +51631,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx83")
+					(reference "Cx82")
 					(unit 1)
 				)
 			)
@@ -52010,7 +51648,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cbd52e86-f409-4bb6-af62-7665c748e4f6")
-		(property "Reference" "Cx85"
+		(property "Reference" "Cx84"
 			(at 566.928 170.688 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52096,7 +51734,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx85")
+					(reference "Cx84")
 					(unit 1)
 				)
 			)
@@ -52340,7 +51978,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 287.02 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -52427,6 +52065,103 @@
 		)
 	)
 	(symbol
+		(lib_id "marbastlib-mx.kicad_sym:MX_stab")
+		(at 57.15 147.32 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(uuid "cda8e3b0-b1d3-463e-87d5-52c620d6c603")
+		(property "Reference" "S4"
+			(at 56.134 147.574 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MX_stab"
+			(at 55.372 151.384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_2.25u"
+			(at 57.15 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 57.15 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Cherry MX-style stabilizer"
+			(at 57.15 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 57.15 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 57.15 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "75all% H-Effect Gaming Keyboard"
+				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
+					(reference "S4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 287.02 130.81 0)
 		(unit 1)
@@ -52437,7 +52172,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ce0f2d5e-9468-4309-848a-705d9fd8a598")
-		(property "Reference" "#PWR0159"
+		(property "Reference" "#PWR0213"
 			(at 287.02 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -52497,7 +52232,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0159")
+					(reference "#PWR0213")
 					(unit 1)
 				)
 			)
@@ -52514,7 +52249,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ce2d2fda-ece4-491e-b0e5-dd7606ea2351")
-		(property "Reference" "#PWR0106"
+		(property "Reference" "#PWR0160"
 			(at 83.82 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -52574,7 +52309,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0106")
+					(reference "#PWR0160")
 					(unit 1)
 				)
 			)
@@ -52694,7 +52429,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cf9c87da-f4ef-46bc-80e7-42718a2e4aa7")
-		(property "Reference" "#PWR0213"
+		(property "Reference" "#PWR0265"
 			(at 547.37 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -52754,7 +52489,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0213")
+					(reference "#PWR0265")
 					(unit 1)
 				)
 			)
@@ -52864,109 +52599,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 53.34 149.86 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "d10f171b-9686-4512-8f0e-0797712ded0b")
-		(property "Reference" "Cx62"
-			(at 53.848 147.828 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100n"
-			(at 53.848 151.892 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 54.3052 153.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 53.34 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 53.34 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 53.34 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 53.34 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "bab1b158-f192-4c02-b783-d8f73a2c6b07")
-		)
-		(pin "1"
-			(uuid "05cfa0c5-5717-463b-8a68-4d40ea7d6758")
-		)
-		(instances
-			(project "75all% H-Effect Gaming Keyboard"
-				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx62")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3.3VA")
 		(at 433.07 96.52 0)
 		(unit 1)
@@ -52977,7 +52609,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d1ee37fb-c082-429f-a32a-5c99059f685b")
-		(property "Reference" "#PWR0117"
+		(property "Reference" "#PWR0171"
 			(at 433.07 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -53037,7 +52669,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0117")
+					(reference "#PWR0171")
 					(unit 1)
 				)
 			)
@@ -53075,7 +52707,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1.5u"
 			(at 49.53 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -53193,7 +52825,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 318.77 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -53290,7 +52922,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d3c7fbe0-614f-4b86-927f-977cac926321")
-		(property "Reference" "#PWR0140"
+		(property "Reference" "#PWR0194"
 			(at 83.82 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -53350,7 +52982,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0140")
+					(reference "#PWR0194")
 					(unit 1)
 				)
 			)
@@ -53367,7 +52999,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d3dfc661-afdc-481d-8e74-205c001a5c69")
-		(property "Reference" "#PWR0160"
+		(property "Reference" "#PWR0214"
 			(at 318.77 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -53427,7 +53059,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0160")
+					(reference "#PWR0214")
 					(unit 1)
 				)
 			)
@@ -53547,7 +53179,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d42e0301-8d2b-4ab3-9c02-ef22f9d6ccbf")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR0112"
 			(at 33.02 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -53607,7 +53239,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR058")
+					(reference "#PWR0112")
 					(unit 1)
 				)
 			)
@@ -53624,7 +53256,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d46ceb82-91f5-4108-a692-8dcdb9999fc7")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR0109"
 			(at 402.59 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -53684,7 +53316,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR055")
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
@@ -53804,7 +53436,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d5ffeb4a-5fef-4e9d-b515-47e894286ca4")
-		(property "Reference" "Cx77"
+		(property "Reference" "Cx76"
 			(at 85.598 170.688 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53890,7 +53522,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx77")
+					(reference "Cx76")
 					(unit 1)
 				)
 			)
@@ -53907,7 +53539,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d658e691-b67c-4aea-bdf9-63cfe5dda2da")
-		(property "Reference" "#PWR092"
+		(property "Reference" "#PWR0146"
 			(at 160.02 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -53967,7 +53599,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR092")
+					(reference "#PWR0146")
 					(unit 1)
 				)
 			)
@@ -53984,7 +53616,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d6bdce7a-b62e-48ff-8658-f530489dc40e")
-		(property "Reference" "#PWR0130"
+		(property "Reference" "#PWR0184"
 			(at 318.77 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -54044,7 +53676,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0130")
+					(reference "#PWR0184")
 					(unit 1)
 				)
 			)
@@ -54061,7 +53693,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d749eeba-641f-4330-9e46-94e168fff5e3")
-		(property "Reference" "#PWR0147"
+		(property "Reference" "#PWR0201"
 			(at 306.07 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -54121,7 +53753,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0147")
+					(reference "#PWR0201")
 					(unit 1)
 				)
 			)
@@ -54138,7 +53770,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d762003a-bc21-4283-a733-7f9388a069bd")
-		(property "Reference" "#PWR0195"
+		(property "Reference" "#PWR0247"
 			(at 85.09 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -54198,7 +53830,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0195")
+					(reference "#PWR0247")
 					(unit 1)
 				)
 			)
@@ -54339,7 +53971,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 223.52 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -54436,7 +54068,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d93cec2e-fdfd-4168-b900-c68d4ca8ee64")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR0140"
 			(at 533.4 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -54496,7 +54128,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR086")
+					(reference "#PWR0140")
 					(unit 1)
 				)
 			)
@@ -54535,7 +54167,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "lib:STAB_MX_P_2u"
+		(property "Footprint" "PCM_marbastlib-mx:STAB_MX_P_2u"
 			(at 486.41 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -54610,7 +54242,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "da27243a-50c4-4827-a525-103bc7de1f03")
-		(property "Reference" "#PWR0174"
+		(property "Reference" "#PWR0227"
 			(at 307.34 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -54670,7 +54302,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0174")
+					(reference "#PWR0227")
 					(unit 1)
 				)
 			)
@@ -54893,7 +54525,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "db598b98-0e34-48c3-978a-c115cae8b171")
-		(property "Reference" "#PWR0125"
+		(property "Reference" "#PWR0179"
 			(at 160.02 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -54953,7 +54585,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0125")
+					(reference "#PWR0179")
 					(unit 1)
 				)
 			)
@@ -54991,7 +54623,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 287.02 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -55088,7 +54720,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dcbbc97c-b998-42fc-ac11-3f9e74c42ec2")
-		(property "Reference" "#PWR0207"
+		(property "Reference" "#PWR0259"
 			(at 224.79 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -55148,7 +54780,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0207")
+					(reference "#PWR0259")
 					(unit 1)
 				)
 			)
@@ -55165,7 +54797,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ddc2cb5a-d7ee-474e-8828-58f29295751f")
-		(property "Reference" "#PWR0230"
+		(property "Reference" "#PWR0282"
 			(at 306.07 281.94 0)
 			(hide yes)
 			(show_name no)
@@ -55225,7 +54857,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0230")
+					(reference "#PWR0282")
 					(unit 1)
 				)
 			)
@@ -55242,7 +54874,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ddca66f2-5064-4d06-85db-4a6a549b5b9b")
-		(property "Reference" "#PWR0162"
+		(property "Reference" "#PWR0216"
 			(at 382.27 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -55302,7 +54934,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0162")
+					(reference "#PWR0216")
 					(unit 1)
 				)
 			)
@@ -55319,7 +54951,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "de25cbad-8e40-4415-ae00-57a169b04fdb")
-		(property "Reference" "#PWR0215"
+		(property "Reference" "#PWR0268"
 			(at 180.34 232.41 0)
 			(hide yes)
 			(show_name no)
@@ -55379,7 +55011,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0215")
+					(reference "#PWR0268")
 					(unit 1)
 				)
 			)
@@ -55396,7 +55028,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "de35c9e7-a82e-433a-ae38-d73b125d0cd0")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR0125"
 			(at 20.32 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -55456,7 +55088,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR071")
+					(reference "#PWR0125")
 					(unit 1)
 				)
 			)
@@ -55473,7 +55105,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ded9a4c0-a2d3-4bbe-bc04-ff3e60fcb5dd")
-		(property "Reference" "#PWR0209"
+		(property "Reference" "#PWR0261"
 			(at 416.56 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -55533,7 +55165,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0209")
+					(reference "#PWR0261")
 					(unit 1)
 				)
 			)
@@ -55674,7 +55306,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 318.77 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -55771,7 +55403,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e0b39caf-c7b6-4752-807c-6f910cd1744c")
-		(property "Reference" "#PWR0122"
+		(property "Reference" "#PWR0176"
 			(at 49.53 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -55831,7 +55463,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0122")
+					(reference "#PWR0176")
 					(unit 1)
 				)
 			)
@@ -55848,7 +55480,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e3531f51-52d1-4b25-a2c1-b05c7a950a26")
-		(property "Reference" "#PWR0104"
+		(property "Reference" "#PWR0158"
 			(at 577.85 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -55908,7 +55540,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0104")
+					(reference "#PWR0158")
 					(unit 1)
 				)
 			)
@@ -55946,7 +55578,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 514.35 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -56043,7 +55675,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e43455e3-d2f0-467a-85f5-08dce41baec5")
-		(property "Reference" "#PWR0164"
+		(property "Reference" "#PWR0218"
 			(at 445.77 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -56103,7 +55735,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0164")
+					(reference "#PWR0218")
 					(unit 1)
 				)
 			)
@@ -56120,7 +55752,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e49887fa-c236-4ea7-b650-213fe5e15c9e")
-		(property "Reference" "#PWR0198"
+		(property "Reference" "#PWR0250"
 			(at 403.86 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -56180,7 +55812,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0198")
+					(reference "#PWR0250")
 					(unit 1)
 				)
 			)
@@ -56403,7 +56035,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e533f49a-7720-40c3-aa7e-39f1eaf0524a")
-		(property "Reference" "#PWR0173"
+		(property "Reference" "#PWR0226"
 			(at 275.59 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -56463,7 +56095,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0173")
+					(reference "#PWR0226")
 					(unit 1)
 				)
 			)
@@ -56583,7 +56215,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e572e9eb-88ed-4452-b17b-804ab87339f9")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR0143"
 			(at 64.77 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -56643,7 +56275,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR089")
+					(reference "#PWR0143")
 					(unit 1)
 				)
 			)
@@ -56784,7 +56416,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 414.02 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -56881,7 +56513,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e5dcb6f5-2dee-43fe-9b6f-7f0098b80be5")
-		(property "Reference" "#PWR0138"
+		(property "Reference" "#PWR0192"
 			(at 577.85 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -56941,7 +56573,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0138")
+					(reference "#PWR0192")
 					(unit 1)
 				)
 			)
@@ -56958,7 +56590,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e665c823-6e02-45b8-9a75-3ef9133bf519")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR0132"
 			(at 242.57 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -57018,7 +56650,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR078")
+					(reference "#PWR0132")
 					(unit 1)
 				)
 			)
@@ -57036,7 +56668,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6883a05-d0bd-44c4-b4f5-05337ecd140c")
-		(property "Reference" "HE68"
+		(property "Reference" "HE67"
 			(at 256.54 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57056,7 +56688,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 256.54 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -57136,7 +56768,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE68")
+					(reference "HE67")
 					(unit 1)
 				)
 			)
@@ -57153,7 +56785,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e7a05ad0-ccdf-485b-9424-ba6f5a774d54")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR0134"
 			(at 306.07 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -57213,7 +56845,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR080")
+					(reference "#PWR0134")
 					(unit 1)
 				)
 			)
@@ -57230,7 +56862,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e7eb3ccc-1ba4-4819-9b4c-0964ce2e4670")
-		(property "Reference" "#PWR0218"
+		(property "Reference" "#PWR0271"
 			(at 388.62 233.68 0)
 			(hide yes)
 			(show_name no)
@@ -57290,7 +56922,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0218")
+					(reference "#PWR0271")
 					(unit 1)
 				)
 			)
@@ -57307,7 +56939,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e8201153-adb4-4020-b0bd-a77d9ade9ed0")
-		(property "Reference" "#PWR0189"
+		(property "Reference" "#PWR0241"
 			(at 351.79 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -57367,7 +56999,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0189")
+					(reference "#PWR0241")
 					(unit 1)
 				)
 			)
@@ -57385,7 +57017,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e84edabf-ddf9-4a23-b391-f82b95af23e7")
-		(property "Reference" "U9"
+		(property "Reference" "U14"
 			(at 456.9177 241.3 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57516,7 +57148,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "U9")
+					(reference "U14")
 					(unit 1)
 				)
 			)
@@ -57533,7 +57165,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e901c122-e167-4c67-8564-9b924a512581")
-		(property "Reference" "#PWR0127"
+		(property "Reference" "#PWR0181"
 			(at 223.52 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -57593,7 +57225,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0127")
+					(reference "#PWR0181")
 					(unit 1)
 				)
 			)
@@ -57610,7 +57242,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ec37dd97-7789-4545-93ce-de16bf214cbc")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR0120"
 			(at 332.74 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -57670,7 +57302,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR066")
+					(reference "#PWR0120")
 					(unit 1)
 				)
 			)
@@ -57708,7 +57340,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 269.24 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -57899,109 +57531,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 78.74 149.86 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ecb7ac59-6f8c-4828-91c3-b03a1c738a71")
-		(property "Reference" "Cy62"
-			(at 74.676 147.574 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "4.7n"
-			(at 73.914 151.892 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 79.7052 153.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 78.74 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 78.74 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 78.74 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 78.74 149.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "f2b1a70b-4e7b-4398-9507-e2b34c6d0a75")
-		)
-		(pin "1"
-			(uuid "9e85ee61-3b3c-4269-adc5-071979b1ea9a")
-		)
-		(instances
-			(project "75all% H-Effect Gaming Keyboard"
-				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy62")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 269.24 149.86 0)
 		(unit 1)
 		(body_style 1)
@@ -58011,7 +57540,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "eccf078c-3906-498a-a66d-67ccc1d5b450")
-		(property "Reference" "Cy68"
+		(property "Reference" "Cy67"
 			(at 265.176 147.574 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -58097,7 +57626,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cy68")
+					(reference "Cy67")
 					(unit 1)
 				)
 			)
@@ -58114,7 +57643,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ecd9f798-357b-4b8d-92e0-2de38651bf14")
-		(property "Reference" "#PWR0158"
+		(property "Reference" "#PWR0212"
 			(at 255.27 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -58174,7 +57703,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0158")
+					(reference "#PWR0212")
 					(unit 1)
 				)
 			)
@@ -58192,7 +57721,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed45396f-8d32-4382-babe-43a868d826c3")
-		(property "Reference" "HE76"
+		(property "Reference" "HE75"
 			(at 66.04 161.29 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -58212,7 +57741,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1.25u"
 			(at 66.04 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -58292,7 +57821,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE76")
+					(reference "HE75")
 					(unit 1)
 				)
 			)
@@ -58309,7 +57838,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ed875d4e-83b4-46cf-9f77-e0a7b16c221a")
-		(property "Reference" "#PWR0154"
+		(property "Reference" "#PWR0208"
 			(at 128.27 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -58369,7 +57898,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0154")
+					(reference "#PWR0208")
 					(unit 1)
 				)
 			)
@@ -58716,7 +58245,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 255.27 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -58813,7 +58342,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f0ce2e68-d52c-4b70-95b9-644d7c5fe725")
-		(property "Reference" "#PWR0185"
+		(property "Reference" "#PWR0237"
 			(at 224.79 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -58873,7 +58402,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0185")
+					(reference "#PWR0237")
 					(unit 1)
 				)
 			)
@@ -58890,7 +58419,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f15e588c-7080-4abc-a247-e2425c2ff16b")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR0103"
 			(at 180.34 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -58950,7 +58479,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR049")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -58988,7 +58517,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 447.04 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -59085,7 +58614,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f237df54-edb4-4765-b2fc-4d5a06a508fd")
-		(property "Reference" "#PWR0128"
+		(property "Reference" "#PWR0182"
 			(at 255.27 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -59145,7 +58674,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0128")
+					(reference "#PWR0182")
 					(unit 1)
 				)
 			)
@@ -59162,7 +58691,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f260b74e-f96f-47a6-be71-c3dc0268efa6")
-		(property "Reference" "#PWR0170"
+		(property "Reference" "#PWR0223"
 			(at 180.34 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -59222,7 +58751,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0170")
+					(reference "#PWR0223")
 					(unit 1)
 				)
 			)
@@ -59240,7 +58769,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f29d8103-4d51-4907-8005-5d4765e34f93")
-		(property "Reference" "HE67"
+		(property "Reference" "HE66"
 			(at 224.79 138.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -59260,7 +58789,7 @@
 				)
 			)
 		)
-		(property "Footprint" "lib:SW_MX_HE_0deg_1u"
+		(property "Footprint" "PCM_marbastlib-he:SW_MX_HE_0deg_1u"
 			(at 224.79 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -59340,7 +58869,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "HE67")
+					(reference "HE66")
 					(unit 1)
 				)
 			)
@@ -59357,7 +58886,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f307b1d1-847f-4c4c-b8c6-93e48f7aed0c")
-		(property "Reference" "#PWR0171"
+		(property "Reference" "#PWR0224"
 			(at 212.09 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -59417,7 +58946,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0171")
+					(reference "#PWR0224")
 					(unit 1)
 				)
 			)
@@ -59537,7 +59066,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f5646038-e9e9-4c52-919b-2102ac1055a2")
-		(property "Reference" "#PWR0192"
+		(property "Reference" "#PWR0244"
 			(at 547.37 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -59597,7 +59126,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0192")
+					(reference "#PWR0244")
 					(unit 1)
 				)
 			)
@@ -59924,7 +59453,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f92e7e88-2a1f-4682-8a14-c08d4f6ca3ac")
-		(property "Reference" "C24"
+		(property "Reference" "C44"
 			(at 462.28 231.1463 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -59988,7 +59517,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "C24")
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -60108,7 +59637,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fb33a67e-7f85-45a3-a4ad-35ad58a23366")
-		(property "Reference" "#PWR0139"
+		(property "Reference" "#PWR0193"
 			(at 36.83 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -60168,7 +59697,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0139")
+					(reference "#PWR0193")
 					(unit 1)
 				)
 			)
@@ -60185,7 +59714,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fc2e3ed6-b5e9-48ae-bc06-6f7dadf78469")
-		(property "Reference" "Cx72"
+		(property "Reference" "Cx71"
 			(at 371.348 147.828 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60271,7 +59800,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "Cx72")
+					(reference "Cx71")
 					(unit 1)
 				)
 			)
@@ -60288,7 +59817,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fd78fbf1-b789-4eb3-9518-2c0e8fad8eee")
-		(property "Reference" "#PWR0182"
+		(property "Reference" "#PWR0234"
 			(at 129.54 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -60348,7 +59877,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR0182")
+					(reference "#PWR0234")
 					(unit 1)
 				)
 			)
@@ -60468,7 +59997,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fff78626-26d6-4d12-8ae9-f562dc114985")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR0117"
 			(at 237.49 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -60528,7 +60057,7 @@
 		(instances
 			(project "75all% H-Effect Gaming Keyboard"
 				(path "/cd976603-49cc-4f27-891f-91ac234067a1/aa1fcb44-5998-4a85-a02f-edf12447fbdf"
-					(reference "#PWR063")
+					(reference "#PWR0117")
 					(unit 1)
 				)
 			)
